@@ -1,0 +1,83 @@
+[
+  {
+    "paperId": 76,
+    "paperTitle": "Unveiling Text in Challenging Stone Inscriptions: A Spatially-Adaptive Patching Strategy for Binarization",
+    "authors": "Pratyush Jena (IIIT Hyderabad); Amal Joseph (IIIT Hyderabad); Arnav Sharma (IIIT Hyderabad); Ravi Kiran Sarvadevabhatla (IIIT Hyderabad)*",
+    "broadArea": "Vision-Language Models",
+    "session": "Oral Session-1",
+    "additionalPosterSession": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 303,
+    "paperTitle": "Improving Video Question Answering through query-based frame selection",
+    "authors": "Himanshu Patil (Indian Institute of Technology Bombay)*; Geo Jolly (Indian Institute of Technology Bombay); Ramana Raja Buddala (Indian Institute of Technology Bombay); Ganesh Ramakrishnan (Indian Institute of Technology Bombay)",
+    "broadArea": "Vision-Language Models",
+    "session": "Oral Session-1",
+    "additionalPosterSession": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 130,
+    "paperTitle": "From Words to Paragraphs: Hierarchical Dense Text Detection with SAM-Adaptive Backbone",
+    "authors": "Shashank Vempati (IIT Delhi)*; Gaurav Talebailkar (IIT Delhi); Sai Prabhath Bogam (IIT Delhi); Bhaskar Arun (Tata 1mg); Kayalvizhi Ganesan (Tata 1mg); Chetan Arora (IIT Delhi)",
+    "broadArea": "Vision-Language Models",
+    "session": "Oral Session-1",
+    "additionalPosterSession": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 201,
+    "paperTitle": "Temporal Graph Attention Networks for Action Recognition",
+    "authors": "Sujoy Nath (Netaji Subhash Engineering College); Arkaprabha Basu (TCG Crest)*; Sharanya Dasgupta (Indian Statistical Institute, Kolkata)",
+    "broadArea": "Video Understanding",
+    "session": "Oral Session-2",
+    "additionalPosterSession": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 156,
+    "paperTitle": "Deep Learning Based Semantic Segmentation for Autonomous Driving",
+    "authors": "Ankit Kumar (IIT Delhi)*; Priya Sharma (IIT Delhi); Rahul Verma (IIIT Hyderabad)",
+    "broadArea": "Autonomous Systems",
+    "session": "Oral Session-2",
+    "additionalPosterSession": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 289,
+    "paperTitle": "Multi-Modal Learning for Medical Image Analysis",
+    "authors": "Dr. Meera Patel (AIIMS)*; Vikram Singh (IIT Bombay); Neha Gupta (IISc Bangalore)",
+    "broadArea": "Medical Imaging",
+    "session": "Oral Session-3",
+    "additionalPosterSession": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 178,
+    "paperTitle": "Efficient Transformers for Real-Time Object Detection",
+    "authors": "Karan Malhotra (Microsoft Research)*; Sneha Reddy (Google Research); Aditya Joshi (IIT Madras)",
+    "broadArea": "Object Detection",
+    "session": "Oral Session-4",
+    "additionalPosterSession": "",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 245,
+    "paperTitle": "Neural Architecture Search for Edge Deployment",
+    "authors": "Rohan Kapoor (NVIDIA)*; Anjali Devi (Intel Labs); Suresh Kumar (IIT Kanpur)",
+    "broadArea": "Neural Architecture",
+    "session": "Oral Session-5",
+    "additionalPosterSession": "",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 312,
+    "paperTitle": "Self-Supervised Learning for 3D Point Cloud Understanding",
+    "authors": "Amit Sharma (Amazon)*; Priyanka Roy (IIT Kharagpur); Deepak Mishra (ISRO)",
+    "broadArea": "3D Vision",
+    "session": "Oral Session-6",
+    "additionalPosterSession": "",
+    "sessionChair": ""
+  }
+]

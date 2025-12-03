@@ -1,0 +1,58 @@
+[
+  {
+    "paperId": 223,
+    "paperTitle": "PointxLSTM: Integrating xLSTM for 3D Point Cloud Completion and Analysis",
+    "authors": "Seema Kumari (IIT Gandhinagar)*; Mitkumar Patel (Pandit Deendayal Energy University); Ankeshwar Ruthesha (IIT Gandhinagar); Shanmuganathan Raman (IIT Gandhinagar)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 6,
+    "paperTitle": "Light-Field Dataset for Disparity Based Depth Estimation",
+    "authors": "Suresh Nehra (Indian Institute of Technology, Kharagpur)*; Aupendu Kar (Dolby); Prabir Kumar Biswas (Indian Institute of Technology, Kharagpur); Jayanta Mukhopadhyay (Indian Institute of Technology, Kharagpur)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 69,
+    "paperTitle": "Evaluating Illumination Effects on AU Intensity in Bone-Driven Facial Animation of 3D Avatar",
+    "authors": "Bavneet Kaur (Punjabi University, Patiala)*; Gurpreet Singh Josan (Punjabi University, Patiala)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 145,
+    "paperTitle": "Attention-Based Feature Fusion for Cross-Modal Retrieval",
+    "authors": "Supreet Kaur (Indian Institute of Technology Jodhpur)*; Ajay Parakh (TIH, iHub Drishti Foundation, IIT Jodhpur); Vishakha Pareek (TIH, iHub Drishti Foundation, IIT Jodhpur); Rajendra Nagar",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 198,
+    "paperTitle": "Robust Visual SLAM for Dynamic Environments",
+    "authors": "Vivek Ranjan (IIT Roorkee)*; Manisha Singh (IIIT Allahabad); Nitin Kumar (NIT Trichy)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 267,
+    "paperTitle": "Generative Adversarial Networks for Face Super-Resolution",
+    "authors": "Deepika Verma (IIT Guwahati)*; Rakesh Sharma (IIT Patna); Sunita Devi (BITS Pilani)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 334,
+    "paperTitle": "Domain Adaptation for Satellite Image Classification",
+    "authors": "Abhishek Tiwari (ISRO)*; Kavitha Ramanathan (IISc Bangalore); Sanjay Kumar (DRDO)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 401,
+    "paperTitle": "Few-Shot Learning for Rare Disease Diagnosis",
+    "authors": "Dr. Neha Verma (PGIMER)*; Arjun Patel (IIT Delhi); Shreya Bansal (AIIMS Delhi)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  }
+]

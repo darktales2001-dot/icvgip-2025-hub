@@ -1,0 +1,42 @@
+[
+  {
+    "paperId": 6,
+    "paperTitle": "Light-Field Dataset for Disparity Based Depth Estimation",
+    "abstract": "A Light Field (LF) camera consists of an additional two-dimensional array of micro-lens placed between the main lens and sensor, compared to a conventional camera. The sensor pixels under each micro-lens receive light from a sub-aperture of the main lens. This empowers the image sensor to capture spatial information as well as the angular resolution of a scene point. This additional angular information is used to estimate the depth of a 3-D scene. The continuum of virtual viewpoints in light field data enables efficient depth estimation using Epi-polar Line Images (EPIs) with robust occlusion handling. However, the trade-off between angular information and spatial information is very critical and depends on the focal position of the camera. To design, develop, implement, and test novel disparity-based light field depth estimation algorithms, the availability of suitable light field image datasets is essential. In this paper, a publicly available light field image dataset is introduced and described in detail.",
+    "primaryContactAuthorName": "Suresh Nehra",
+    "primaryContactAuthorEmail": "sknehra975@iitkgp.ac.in",
+    "authors": "Suresh Nehra (Indian Institute of Technology, Kharagpur); Aupendu Kar (Dolby); Prabir Kumar Biswas (Indian Institute of Technology, Kharagpur); Jayanta Mukhopadhyay (Indian Institute of Technology, Kharagpur)"
+  },
+  {
+    "paperId": 12,
+    "paperTitle": "ReviewGuard: Context-Aware Detection of AI-Generated Text in Academic Peer Reviews",
+    "abstract": "The proliferation of Large Language Models (LLMs) in academic writing has complicated the task of distinguishing AI-generated content from human-authored text. One of the most critical areas where this distinction is crucial is peer reviews. The existing detection methods for AI-generated content are frequently ineffective when confronted with short, paraphrased or technical texts, which is characteristic of peer review comments. This paper introduces ReviewGuard, a novel context-aware detection framework specifically tailored for academic peer review settings.",
+    "primaryContactAuthorName": "Debanjan Mukherjee",
+    "primaryContactAuthorEmail": "debanjan@example.com",
+    "authors": "Debanjan Mukherjee (IIT Kharagpur); Arnab Das (IISc Bangalore); Priya Sharma (IIT Delhi)"
+  },
+  {
+    "paperId": 20,
+    "paperTitle": "Mask What Matters: Action-Specific Privacy via Object-Layer Transformation",
+    "abstract": "Video-based action recognition is increasingly deployed on resource-constrained edge devices. However, these devices often face limitations in computational resources, making it necessary to offload data to centralized servers for processing. This transfer of raw video data introduces significant privacy risks, including the potential exposure of personal demographics, identifiable faces, and other sensitive information.",
+    "primaryContactAuthorName": "Aditi Palit",
+    "primaryContactAuthorEmail": "aditi.palit@example.com",
+    "authors": "Aditi Palit (IIT Bombay); Vikas Kumar (IIT Kanpur); Sneha Reddy (IIIT Hyderabad)"
+  },
+  {
+    "paperId": 35,
+    "paperTitle": "Efficient Multi-Scale Feature Aggregation for Dense Prediction Tasks",
+    "abstract": "Dense prediction tasks such as semantic segmentation and depth estimation require effective multi-scale feature aggregation to capture both local details and global context. We propose a novel architecture that efficiently aggregates features across multiple scales using attention mechanisms and skip connections.",
+    "primaryContactAuthorName": "Rahul Verma",
+    "primaryContactAuthorEmail": "rahul.verma@example.com",
+    "authors": "Rahul Verma (IIT Delhi); Meera Patel (IIT Bombay); Karan Singh (IISc Bangalore)"
+  },
+  {
+    "paperId": 48,
+    "paperTitle": "Self-Supervised Contrastive Learning for Medical Image Analysis",
+    "abstract": "Medical image analysis often suffers from limited labeled data. We present a self-supervised contrastive learning framework that leverages unlabeled medical images to learn robust representations. Our method achieves state-of-the-art performance on multiple medical imaging benchmarks with significantly less labeled data.",
+    "primaryContactAuthorName": "Dr. Neha Sharma",
+    "primaryContactAuthorEmail": "neha.sharma@aiims.edu",
+    "authors": "Dr. Neha Sharma (AIIMS Delhi); Vikram Joshi (IIT Madras); Anjali Gupta (PGIMER Chandigarh)"
+  }
+]

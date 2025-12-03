@@ -1,0 +1,62 @@
+[
+  {
+    "sn": 1,
+    "paperTitle": "PLATO: Generating Objects from Part Lists via Synthesized Layouts",
+    "venue": "ACM Multimedia-2025",
+    "authors": "Amruta Muthal, Varghese P Kuruvilla, Ravi Kiran Sarvadevabhatla"
+  },
+  {
+    "sn": 2,
+    "paperTitle": "RASP: Revisiting 3D Anamorphic Art for Shadow-Guided Packing of Irregular Objects",
+    "venue": "CVPR 2025",
+    "authors": "Soumyaratna Debnath* (IIT Gandhinagar), Ashish Tiwari* (IIT Gandhinagar), Kaustubh Sadekar (Portland State University), and Shanmuganathan R (IIT Gandhinagar)"
+  },
+  {
+    "sn": 3,
+    "paperTitle": "RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives",
+    "venue": "CVPR 2025",
+    "authors": "Chirag Parikh, Deepti Rawat, Rakshitha R. T., Tathagata Ghosh, Ravi Kiran Sarvadevabhatla (IIIT Hyderabad)"
+  },
+  {
+    "sn": 4,
+    "paperTitle": "Lightweight Additive Blend Maps for Texture-Preserving Face Retouching: A Neural Approach to Traditional Photographic Techniques",
+    "venue": "AAAI 2026",
+    "authors": "Abinash Pegu (Aftershoot, India)"
+  },
+  {
+    "sn": 5,
+    "paperTitle": "Spectrum Alignment for Robust 3D Point Cloud Correspondences Estimation",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics, 2025",
+    "authors": "Deepanshu Solanki (PhD Scholar, IIT Jodhpur), Rajendra Nagar (Assistant Professor, IIT Jodhpur)"
+  },
+  {
+    "sn": 6,
+    "paperTitle": "When Big Models Train Small Ones: Label-Free Model Parity Alignment for Efficient Visual Question Answering using Small VLMs",
+    "venue": "EMNLP 2025",
+    "authors": "Abhirama Subramanyam Penamakuri (IIT Jodhpur)*, Navlika Singh (IIT Jodhpur)*, Piyush Arora (IIT Jodhpur)*, Anand Mishra (*: Equal contribution)"
+  },
+  {
+    "sn": 7,
+    "paperTitle": "Aligning Moments in Time using Video Queries",
+    "venue": "ICCV 2025",
+    "authors": "Yogesh Kumar (IIT Jodhpur), Uday Agarwal (IIT Jodhpur), Manish Gupta(Microsoft, India), Anand Mishra (IIT Jodhpur)"
+  },
+  {
+    "sn": 8,
+    "paperTitle": "Sketchtopia: A Dataset and Foundational Agents for Benchmarking Asynchronous Multimodal Communication with Iconic Feedback",
+    "venue": "CVPR 2025",
+    "authors": "Mohd Hozaifa Khan (CVIT, IIIT - Hyderabad), Ravi Kiran Sarvadevabhatla (CVIT, IIIT - Hyderabad)"
+  },
+  {
+    "sn": 9,
+    "paperTitle": "The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models",
+    "venue": "CVPR 2025",
+    "authors": "Naveen George(IITH), Karthik Nandan Dasaraju(IIT Ropar), Rutheesh Reddy Chittepu(IITH), Konda Reddy Mopuri(IITH)"
+  },
+  {
+    "sn": 10,
+    "paperTitle": "Towards Safer and Understandable Driver Intention Prediction",
+    "venue": "ICCV 2025",
+    "authors": "Mukilan (IIIT-Hyd), Shankar (IIIT-Hyd), Shyam (Politechnico de Torino), Carlo (Politechnico de Torino), Jawahar (IIIT-Hyd)"
+  }
+]
