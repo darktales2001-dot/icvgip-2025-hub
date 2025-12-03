@@ -2,7 +2,7 @@
   {
     "paperId": 6,
     "paperTitle": "Light-Field Dataset for Disparity Based Depth Estimation",
-    "abstract": "A Light Field (LF) camera consists of an additional two-dimensional array of micro-lens placed between the main lens and sensor, compared to a conventional camera. The sensor pixels under each micro-lens receive light from a sub-aperture of the main lens. This empowers the image sensor to capture spatial information as well as the angular resolution of a scene point. This additional angular information is used to estimate the depth of a 3-D scene. The continuum of virtual viewpoints in light field data enables efficient depth estimation using Epi-polar Line Images (EPIs) with robust occlusion handling. However, the trade-off between angular information and spatial information is very critical and depends on the focal position of the camera. To design, develop, implement, and test novel disparity-based light field depth estimation algorithms, the availability of suitable light field image datasets is essential. In this paper, a publicly available light field image dataset is introduced and described in detail.",
+    "abstract": "A Light Field (LF) camera consists of an additional two-dimensional array of micro-lens placed between the main lens and sensor, compared to a conventional camera. The sensor pixels under each micro-lens receive light from a sub-aperture of the main lens. This empowers the image sensor to capture spatial information as well as the angular resolution of a scene point. This additional angular information is used to estimate the depth of a 3-D scene. The continuum of virtual viewpoints in light field data enables efficient depth estimation using Epi-polar Line Images (EPIs) with robust occlusion handling.",
     "primaryContactAuthorName": "Suresh Nehra",
     "primaryContactAuthorEmail": "sknehra975@iitkgp.ac.in",
     "authors": "Suresh Nehra (Indian Institute of Technology, Kharagpur); Aupendu Kar (Dolby); Prabir Kumar Biswas (Indian Institute of Technology, Kharagpur); Jayanta Mukhopadhyay (Indian Institute of Technology, Kharagpur)"
@@ -10,33 +10,257 @@
   {
     "paperId": 12,
     "paperTitle": "ReviewGuard: Context-Aware Detection of AI-Generated Text in Academic Peer Reviews",
-    "abstract": "The proliferation of Large Language Models (LLMs) in academic writing has complicated the task of distinguishing AI-generated content from human-authored text. One of the most critical areas where this distinction is crucial is peer reviews. The existing detection methods for AI-generated content are frequently ineffective when confronted with short, paraphrased or technical texts, which is characteristic of peer review comments. This paper introduces ReviewGuard, a novel context-aware detection framework specifically tailored for academic peer review settings.",
-    "primaryContactAuthorName": "Debanjan Mukherjee",
-    "primaryContactAuthorEmail": "debanjan@example.com",
-    "authors": "Debanjan Mukherjee (IIT Kharagpur); Arnab Das (IISc Bangalore); Priya Sharma (IIT Delhi)"
+    "abstract": "The proliferation of Large Language Models (LLMs) in academic writing has complicated the task of distinguishing AI-generated content from human-authored text. One of the most critical areas where this distinction is crucial is peer reviews. This paper introduces ReviewGuard, a novel context-aware detection framework specifically tailored for academic peer review settings. ReviewGuard achieves state-of-the-art performance with an F1 score of 0.8951.",
+    "primaryContactAuthorName": "Samarth Garg",
+    "primaryContactAuthorEmail": "",
+    "authors": "Samarth Garg (ABV-IIITM Gwalior); Debanjan Sadhya (ABV-IIITM Gwalior)*; Sunil Kumar (ABV-IIITM Gwalior)"
   },
   {
     "paperId": 20,
     "paperTitle": "Mask What Matters: Action-Specific Privacy via Object-Layer Transformation",
-    "abstract": "Video-based action recognition is increasingly deployed on resource-constrained edge devices. However, these devices often face limitations in computational resources, making it necessary to offload data to centralized servers for processing. This transfer of raw video data introduces significant privacy risks, including the potential exposure of personal demographics, identifiable faces, and other sensitive information.",
+    "abstract": "Video-based action recognition is increasingly deployed on resource-constrained edge devices. We propose a privacy-preserving data transformation technique called Object Layer Transformation (OLT). OLT introduces a high level of obfuscation by leveraging pre-trained object detection and segmentation models to identify and mask sensitive content in the input frames. Evaluated on UCF-101, OLT achieves 71.8% balanced accuracy.",
     "primaryContactAuthorName": "Aditi Palit",
-    "primaryContactAuthorEmail": "aditi.palit@example.com",
-    "authors": "Aditi Palit (IIT Bombay); Vikas Kumar (IIT Kanpur); Sneha Reddy (IIIT Hyderabad)"
+    "primaryContactAuthorEmail": "",
+    "authors": "Aditi Palit (Indian Institute of Technology)*; PRANAY VARNA CHINTHAPATLA (Sree Vidyanikethan Engineering College); DEDEEPYA VEMBULURU (Sri Venkateswara College of Engineering); Kalidas Yeturu (Indian Institute of Technology)"
   },
   {
-    "paperId": 35,
-    "paperTitle": "Efficient Multi-Scale Feature Aggregation for Dense Prediction Tasks",
-    "abstract": "Dense prediction tasks such as semantic segmentation and depth estimation require effective multi-scale feature aggregation to capture both local details and global context. We propose a novel architecture that efficiently aggregates features across multiple scales using attention mechanisms and skip connections.",
-    "primaryContactAuthorName": "Rahul Verma",
-    "primaryContactAuthorEmail": "rahul.verma@example.com",
-    "authors": "Rahul Verma (IIT Delhi); Meera Patel (IIT Bombay); Karan Singh (IISc Bangalore)"
+    "paperId": 27,
+    "paperTitle": "Bayesian Transform Learning",
+    "abstract": "We propose a fully Bayesian formulation of transform learning, in which both the transform matrix and sparse coefficients are treated as latent variables with structured priors. We develop two inference strategies: Variational Bayes (VB) using a Laplacian prior and Gibbs Sampling (GS) with an automatic relevance determination (ARD) prior. We apply our framework to compressed sensing MRI (CS-MRI) reconstruction.",
+    "primaryContactAuthorName": "Angshul Majumdar",
+    "primaryContactAuthorEmail": "",
+    "authors": "Angshul Majumdar (IIIT Delhi); Durba Bhattacharya (St. Xavier's College)"
   },
   {
-    "paperId": 48,
-    "paperTitle": "Self-Supervised Contrastive Learning for Medical Image Analysis",
-    "abstract": "Medical image analysis often suffers from limited labeled data. We present a self-supervised contrastive learning framework that leverages unlabeled medical images to learn robust representations. Our method achieves state-of-the-art performance on multiple medical imaging benchmarks with significantly less labeled data.",
-    "primaryContactAuthorName": "Dr. Neha Sharma",
-    "primaryContactAuthorEmail": "neha.sharma@aiims.edu",
-    "authors": "Dr. Neha Sharma (AIIMS Delhi); Vikram Joshi (IIT Madras); Anjali Gupta (PGIMER Chandigarh)"
+    "paperId": 29,
+    "paperTitle": "Smoothness-Preserving Deep Semi Non-negative Matrix Factorization for Clustering",
+    "abstract": "This work introduces a novel deep semi-non-negative matrix factorization (Deep Semi-NMF) approach for clustering. We first learn a feature representation through deep semi-negative matrix factorization on the data. This learned representation is then used to learn a graph Laplacian. Our approach demonstrates significant improvements over existing methods.",
+    "primaryContactAuthorName": "Debapriya Roy (Kundu)",
+    "primaryContactAuthorEmail": "",
+    "authors": "Debapriya Roy (Kundu) (ISI Kolkata)*; Angshul Majumdar (TCG CREST)"
+  },
+  {
+    "paperId": 34,
+    "paperTitle": "Mimicking Human Visual Development for Learning Robust Image Representations",
+    "abstract": "Drawing inspiration from the developmental trajectory of human vision, we propose a progressive blurring curriculum to improve the generalization and robustness of CNNs. Our experiments demonstrate that the proposed curriculum reduces mean corruption error (mCE) by up to 8.30% on CIFAR-10-C and 4.43% on ImageNet-100-C datasets.",
+    "primaryContactAuthorName": "Ankita Raj",
+    "primaryContactAuthorEmail": "",
+    "authors": "Ankita Raj (Indian Institute of Technology Delhi)*; Kaashika Prajaapat (Clinikally); Tapan Gandhi (Indian Institute of Technology Delhi); Chetan Arora (Indian Institute of Technology Delhi)"
+  },
+  {
+    "paperId": 36,
+    "paperTitle": "Multi-modal Image Colorization with Instance-Aware Transformer network",
+    "abstract": "We propose a novel colorization method that provides the flexibility to provide additional guidance using multiple input modalities. Our method consists of a novel color histogram predictor followed by an instance-aware colorization transformer network, that can automatically colorize the input image with optional conditioning using color palette, exemplar image and language descriptions.",
+    "primaryContactAuthorName": "Mrinmoy Sen",
+    "primaryContactAuthorEmail": "",
+    "authors": "Mrinmoy Sen (Samsung R&D Institute India - Bangalore)*; Akshay Bankar (Samsung R&D Institute India - Bangalore); Ravikiran Kundapur Subraya (Samsung R&D Institute India - Bangalore); Roopa Sheshadri (Samsung R&D Institute India - Bangalore); Kyuwon Kim (Samsung Electronics)"
+  },
+  {
+    "paperId": 40,
+    "paperTitle": "VAD-FedHSM: Video Anomaly Detection in Federated Learning Framework with Local Hard Sample Mining",
+    "abstract": "We propose a novel iterative framework that integrates Hard Sample Mining (HSM) with Federated Learning (FL). Each client incrementally refines its model by identifying and training on difficult samples during local training. Extensive experiments demonstrate superior results on the UCF-Crime dataset.",
+    "primaryContactAuthorName": "Dillip Sathiyamoorthy",
+    "primaryContactAuthorEmail": "",
+    "authors": "Dillip Sathiyamoorthy (Indian Institute of Technology Guwahati); Prithwijit Guha (Indian Institute of Technology Guwahati)"
+  },
+  {
+    "paperId": 41,
+    "paperTitle": "Compressive Modeling and Visualization of Multivariate Scientific Data using Implicit Neural Representation",
+    "abstract": "We develop compressed neural representations for multivariate datasets containing tens to hundreds of variables. Our approach utilizes a single network to learn representations for all data variables simultaneously through parameter sharing. This allows us to achieve state-of-the-art data compression.",
+    "primaryContactAuthorName": "Soumya Dutta",
+    "primaryContactAuthorEmail": "",
+    "authors": "ABHAY DWIVEDI (IIT Kanpur); Shanu Saklani (IIT Kanpur); Soumya Dutta (IIT Kanpur)*"
+  },
+  {
+    "paperId": 47,
+    "paperTitle": "RibCageImp: A Deep Learning Framework for 3D Ribcage Implant Generation",
+    "abstract": "We present a framework based on a 3D U-Net architecture that processes CT scans to generate patient-specific implant designs. To the best of our knowledge, this is the first investigation into automated thoracic implant generation using deep learning approaches.",
+    "primaryContactAuthorName": "Gyanendra Chaubey",
+    "primaryContactAuthorEmail": "",
+    "authors": "Gyanendra Chaubey (Indian Institute of Technology, Jodhpur)*; Azad Singh (Indian Institute of Technology, Jodhpur); Aiman Farooq (Indian Institute of Technology, Jodhpur); Deepak Mishra (Indian Institute of Technology, Jodhpur)"
+  },
+  {
+    "paperId": 54,
+    "paperTitle": "Lightweight and Accurate Deepfake Detection using Gradient-Aware SE-Enhanced EfficientNetV2-S",
+    "abstract": "A novel method for detecting deep-fake images by combining EfficientNetV2-S with Squeeze-and-Excitation (SE) blocks and gradient-based attention mechanisms. The proposed method achieves accuracy of 98.29% and 98.90% on CIFAKE and DFFD datasets respectively with only 26.15 million parameters.",
+    "primaryContactAuthorName": "Prof. Ketan P. Detroja",
+    "primaryContactAuthorEmail": "",
+    "authors": "Prof. Ketan P. Detroja IIT Hyderabad*"
+  },
+  {
+    "paperId": 76,
+    "paperTitle": "Unveiling Text in Challenging Stone Inscriptions: A Spatially-Adaptive Patching Strategy for Binarization",
+    "abstract": "We propose a spatially-adaptive patching strategy for binarizing challenging stone inscriptions. Our method adapts to varying degradation patterns and achieves robust text extraction from ancient stone surfaces.",
+    "primaryContactAuthorName": "Ravi Kiran Sarvadevabhatla",
+    "primaryContactAuthorEmail": "",
+    "authors": "Pratyush Jena (IIIT Hyderabad); Amal Joseph (IIIT Hyderabad); Arnav Sharma (IIIT Hyderabad); Ravi Kiran Sarvadevabhatla (IIIT Hyderabad)*"
+  },
+  {
+    "paperId": 90,
+    "paperTitle": "HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs",
+    "abstract": "We address hierarchical hallucinations in Multimodal Large Language Models through internal representation shifts. Our approach bridges the gap between language and vision modalities for improved factual consistency.",
+    "primaryContactAuthorName": "Sukanya Das",
+    "primaryContactAuthorEmail": "",
+    "authors": "Sukanya Das (Indian Institute of Technology Kharagpur)*; Debasis Samanta (Indian Institute of Technology Kharagpur); Monalisa Sarma (Indian Institute of Technology Kharagpur); Sujoy Nath (Netaji Subhash Engineering College); Arkaprabha Basu (TCG Crest)*; Sharanya Dasgupta (Indian Statistical Institute, Kolkata); Swagatam Das (Indian Statistical Institute, Kolkata)"
+  },
+  {
+    "paperId": 108,
+    "paperTitle": "ChestGPT: Integrating Large Language Models and Vision Transformers for Disease Detection and Localization in Chest X-Rays",
+    "abstract": "We integrate Large Language Models and Vision Transformers for disease detection and localization in chest X-rays. Our approach combines visual understanding with language reasoning for improved diagnostic accuracy.",
+    "primaryContactAuthorName": "Ali Abedi",
+    "primaryContactAuthorEmail": "",
+    "authors": "Shehroz S. Khan (University Health Network); Petar Przulj (University of Toronto); Ahmed Ashraf (University of Manitoba); Ali Abedi (University Health Network)*"
+  },
+  {
+    "paperId": 119,
+    "paperTitle": "Sharing the Learned Knowledge-base to Estimate Convolutional Filter Parameters for Continual Image Restoration",
+    "abstract": "We propose a method for sharing learned knowledge to estimate convolutional filter parameters for continual image restoration tasks, enabling efficient adaptation to new degradation types.",
+    "primaryContactAuthorName": "Aupendu Kar",
+    "primaryContactAuthorEmail": "",
+    "authors": "Aupendu Kar (Dolby Laboratories, Inc.)*; Krishnendu Ghosh (IIT Kharagpur); Prabir Kumar Biswas (IIT Kharagpur)"
+  },
+  {
+    "paperId": 130,
+    "paperTitle": "From Words to Paragraphs: Hierarchical Dense Text Detection with SAM-Adaptive Backbone",
+    "abstract": "We propose hierarchical dense text detection with a SAM-adaptive backbone for detecting text at multiple levels from words to paragraphs in document images.",
+    "primaryContactAuthorName": "Shashank Vempati",
+    "primaryContactAuthorEmail": "",
+    "authors": "Shashank Vempati (IIT Delhi)*; Gaurav Talebailkar (IIT Delhi); Sai Prabhath Bogam (IIT Delhi); Bhaskar Arun (Tata 1mg); Kayalvizhi Ganesan (Tata 1mg); Chetan Arora (IIT Delhi)"
+  },
+  {
+    "paperId": 136,
+    "paperTitle": "Hyperbolic Fuzzy C-Means with Adaptive Weight-based Filtering for Efficient Clustering",
+    "abstract": "We propose hyperbolic fuzzy C-means clustering with adaptive weight-based filtering for improved clustering efficiency in hyperbolic space.",
+    "primaryContactAuthorName": "Arghya Pratihar",
+    "primaryContactAuthorEmail": "",
+    "authors": "Arghya Pratihar (Indian Statistical Institute)*; Swagato Das (Indian Statistical Institute); Swagatam Das (Indian Statistical Institute)"
+  },
+  {
+    "paperId": 140,
+    "paperTitle": "CSGaze: Context-aware Social Gaze Prediction",
+    "abstract": "We present CSGaze for context-aware social gaze prediction, modeling how humans direct their attention in social scenarios by considering contextual cues.",
+    "primaryContactAuthorName": "Surbhi Madan",
+    "primaryContactAuthorEmail": "",
+    "authors": "Surbhi Madan (IIT Ropar); Shreya Ghosh (Curtin University); Ramanathan Subramanian (University of Canberra); Shreya Gedeon (Curtin University); Abhinav Dhall (Monash University)"
+  },
+  {
+    "paperId": 147,
+    "paperTitle": "A Hybrid Dataset and Depth-Guided Transformer for Nighttime Flare Removal",
+    "abstract": "We propose a hybrid dataset and depth-guided transformer architecture for removing nighttime lens flare from images, addressing a challenging low-light vision problem.",
+    "primaryContactAuthorName": "Advait Kisar",
+    "primaryContactAuthorEmail": "",
+    "authors": "Advait Kisar (Indian Institute of Technology Madras)*; Sumeet Shekhar (Indian Institute of Technology Madras); Gopi Raju Matta (Indian Institute of Technology Madras); Kaushik Mitra (Indian Institute of Technology Madras)"
+  },
+  {
+    "paperId": 173,
+    "paperTitle": "Contextual Memory Recall: A Novel Metric for Class Incremental Learning",
+    "abstract": "We propose Contextual Memory Recall (CMR), which evaluates how well a CIL model recalls previously learned classes when given relevant past cues. CMR offers newer insights into continual aspects of a CIL model.",
+    "primaryContactAuthorName": "Ravi Mukkamala",
+    "primaryContactAuthorEmail": "",
+    "authors": "Ravi Mukkamala (Old Dominion University)*"
+  },
+  {
+    "paperId": 176,
+    "paperTitle": "Severity Grading of Autism Spectrum Disorder from Eye Gaze Scanpath Trajectory using Deep Learning",
+    "abstract": "A deep learning-based framework for classification of ASD severity using eye gaze data. The proposed model has achieved a test accuracy of 0.9677 with precision 0.9722, recall 0.9688, F1-score 0.9686, and AUC 1.000.",
+    "primaryContactAuthorName": "Debmani Saha",
+    "primaryContactAuthorEmail": "",
+    "authors": "Debmani Saha (Indian Institute of Information Technology Kalyani)*; Dr. Kumari Rina (All India Institute of Medical Sciences Kalyani); Dr. Deepshikha Ray (University of Calcutta); Dr. Kaushik Mukhopadhyay (All India Institute of Medical Sciences Kalyani); Ayoleena Roy (All India Institute of Medical Sciences Kalyani); Dr. Oishila Bandyopadhyay (Indian Institute of Information Technology Kalyani)"
+  },
+  {
+    "paperId": 177,
+    "paperTitle": "PHAF: Personalised Hand Avatar in a Flash",
+    "abstract": "We present PHAF, a personalized photorealistic hand avatar which provides high quality multiview renders from just two images. PHAF generates fast personalised textures for real-time deployment, reducing texture generation time by 30×.",
+    "primaryContactAuthorName": "Meghana Shankar",
+    "primaryContactAuthorEmail": "",
+    "authors": "Meghana Shankar (Samsung); Akanxit Upadhyay (Samsung); Anmol Namdev (Samsung); Green Rosh KS (Samsung); Pawan Prasad BH (Samsung)"
+  },
+  {
+    "paperId": 182,
+    "paperTitle": "Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications",
+    "abstract": "We explore whether MLLMs can support Assistive AI by evaluating state-of-the-art models on real-world tasks: recognizing everyday objects like currency, answering questions based on scene text, and reading visually presented content across multiple languages.",
+    "primaryContactAuthorName": "Avijit Dasgupta",
+    "primaryContactAuthorEmail": "",
+    "authors": "Shayon Dasgupta (IIT (BHU) Varanasi); Avijit Dasgupta (IIIT Hyderabad)*; Jawahar C. V. (IIIT Hyderabad)"
+  },
+  {
+    "paperId": 192,
+    "paperTitle": "Is the Spatial Structure as Important as Temporal Structure in EEG Signals?",
+    "abstract": "This study challenges the conventional assumption about the importance of temporal structure in EEG analysis. Results reveal a surprising resilience to temporal disruption, suggesting spatial patterns can be more informative than the temporal sequence for most tasks.",
+    "primaryContactAuthorName": "Aryan Naveen",
+    "primaryContactAuthorEmail": "",
+    "authors": "Aryan Naveen (National Institute of Technology Karnataka, Surathkal)*; Gopika Gopan K (Wadhwani AI); Neelam Sinha (Centre for Brain Research, Indian Institute of Science, Bengaluru)"
+  },
+  {
+    "paperId": 209,
+    "paperTitle": "Mesh Object Retrieval using Self-Supervised Mesh Convolution",
+    "abstract": "We address the fundamental limitation of sensitivity to mesh triangle ordering by leveraging mesh convolutions for robust, efficient retrieval. Our method achieves permutation and rotation invariance with 200x fewer parameters.",
+    "primaryContactAuthorName": "Kajal Sanklecha",
+    "primaryContactAuthorEmail": "",
+    "authors": "Kajal Sanklecha (International Institute of Information Technology, Hyderabad); Siddharth Mangipudi (International Institute of Information Technology, Hyderabad); Prayushi Mathur (International Institute of Information Technology, Hyderabad); P. J. Narayanan (International Institute of Information Technology, Hyderabad)"
+  },
+  {
+    "paperId": 223,
+    "paperTitle": "PointxLSTM: Integrating xLSTM for 3D Point Cloud Completion and Analysis",
+    "abstract": "We propose a lightweight encoding framework that integrates an extended Long Short-Term Memory (xLSTM) module into an MLP-based architecture. Our approach outperforms existing methods in shape completion, classification, and part segmentation.",
+    "primaryContactAuthorName": "Seema Kumari",
+    "primaryContactAuthorEmail": "",
+    "authors": "Seema Kumari (IIT Gandhinagar)*; Mitkumar Patel (Pandit Deendayal Energy University); Ankeshwar Ruthesha (IIT Gandhinagar); Shanmuganathan Raman (IIT Gandhinagar)"
+  },
+  {
+    "paperId": 226,
+    "paperTitle": "Leveraging Task-Specific Knowledge from LLM for Semi-Supervised 3D Medical Image Segmentation",
+    "abstract": "We introduce LLM-SegNet, which exploits a large language model to fuse task-specific knowledge into our co-training framework. Experiments on Left Atrium and Pancreas-CT datasets demonstrate superior performance.",
+    "primaryContactAuthorName": "Suruchi Kumari",
+    "primaryContactAuthorEmail": "",
+    "authors": "Suruchi Kumari (Indian Institute of Technology Roorkee)*; Aryan Das (School Of Computer Science Engineering, Vellore Institute of Technology, Bhopal); Swalpa Kumar Roy (Alipurduar Government Engineering and Management College); Indu Joshi (Indian Institute of Technology Mandi); Pravendra Singh (Indian Institute of Technology Roorkee)"
+  },
+  {
+    "paperId": 230,
+    "paperTitle": "A Fast Lossless Compression Algorithm for Color Filter Arrays",
+    "abstract": "We present a novel lossless compression algorithm for CFA applicable to any type and resolution. The proposed algorithm can compress a single image frame to around two times on average and is suitable for real-time applications.",
+    "primaryContactAuthorName": "Chiranjeev Bhaya",
+    "primaryContactAuthorEmail": "",
+    "authors": "Chiranjeev Bhaya (Samsung R&D, Bangalore; IIT ISM Dhanbad)*; Mithil Shail (Samsung R&D, Bangalore); Chandra Mohan Velpula (Samsung R&D, Bangalore); Sarbojit Ganguly (Samsung R&D, Bangalore); Praveen Bangre Prabhakar Rao (Samsung R&D, Bangalore)"
+  },
+  {
+    "paperId": 232,
+    "paperTitle": "Behavioral Evaluation of Prospect-Theoretic Instance-Based Learning: Modeling Risk and Alternation in Experience-Based Decisions",
+    "abstract": "We propose Prospect Theoretic Instance-Based Learning (PT-IBL), a cognitive hybrid model that marries PT's value function with IBLT's memory-based computation of utility. We evaluate PT-IBL on the Technion Prediction Tournament set.",
+    "primaryContactAuthorName": "Varun Dutt",
+    "primaryContactAuthorEmail": "",
+    "authors": "Devansh Shrestha (IIT Mandi); Varun Dutt (IIT Mandi)*"
+  },
+  {
+    "paperId": 259,
+    "paperTitle": "How Does India Cook Biryani?",
+    "abstract": "An analysis of cooking patterns and recipes for Biryani across different regions of India using computer vision and multimodal learning approaches.",
+    "primaryContactAuthorName": "Shubham Goel",
+    "primaryContactAuthorEmail": "",
+    "authors": "Farzana S (IIIT Hyderabad); CV Rishi (IIIT Hyderabad); Shubham Goel (IIIT Hyderabad)*; Aditya Arun (IIIT Hyderabad); CV Jawahar (IIIT Hyderabad)"
+  },
+  {
+    "paperId": 303,
+    "paperTitle": "Improving Video Question Answering through query-based frame selection",
+    "abstract": "We propose a query-based frame selection method for improving video question answering by selecting the most relevant frames based on the question query.",
+    "primaryContactAuthorName": "Himanshu Patil",
+    "primaryContactAuthorEmail": "",
+    "authors": "Himanshu Patil (Indian Institute of Technology Bombay)*; Geo Jolly (Indian Institute of Technology Bombay); Ramana Raja Buddala (Indian Institute of Technology Bombay); Ganesh Ramakrishnan (Indian Institute of Technology Bombay)"
+  },
+  {
+    "paperId": 341,
+    "paperTitle": "DWT-Mamba: A Spatially-Aware State Space Model for Medical Image Classification",
+    "abstract": "We propose DWT-Mamba, a spatially-aware state space model that combines discrete wavelet transform with Mamba architecture for medical image classification.",
+    "primaryContactAuthorName": "Moumita Dholey",
+    "primaryContactAuthorEmail": "",
+    "authors": "Moumita Dholey (Indian Institute of Technology Kharagpur)*; Rosina Ahmed (Tata Medical Center Kolkata); Sanjoy Chatterjee (Tata Medical Center Kolkata); Jayanta Mukhopadhyay (Indian Institute of Technology Kharagpur)"
+  },
+  {
+    "paperId": 344,
+    "paperTitle": "Statistically Validated Hybrid Fusion and Ensemble Feature Selection for Static Sign Language Recognition",
+    "abstract": "We propose a statistically validated hybrid fusion approach with ensemble feature selection for improved static sign language recognition.",
+    "primaryContactAuthorName": "Jayasree Saha",
+    "primaryContactAuthorEmail": "",
+    "authors": "Jayasree Saha (IIIT-Hyderabad)*; Vinay Namboodiri (University of Bath); C. V Jawahar (IIIT Hyderabad)"
   }
 ]

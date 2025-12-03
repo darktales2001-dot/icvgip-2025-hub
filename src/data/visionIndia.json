@@ -9,7 +9,7 @@
     "sn": 2,
     "paperTitle": "RASP: Revisiting 3D Anamorphic Art for Shadow-Guided Packing of Irregular Objects",
     "venue": "CVPR 2025",
-    "authors": "Soumyaratna Debnath* (IIT Gandhinagar), Ashish Tiwari* (IIT Gandhinagar), Kaustubh Sadekar (Portland State University), and Shanmuganathan R (IIT Gandhinagar)"
+    "authors": "Soumyaratna Debnath* (IIT Gandhinagar), Ashish Tiwari* (IIT Gandhinagar), Kaustubh Sadekar (Portland State University), and Shanmuganathan Raman (IIT Gandhinagar)"
   },
   {
     "sn": 3,
@@ -39,7 +39,7 @@
     "sn": 7,
     "paperTitle": "Aligning Moments in Time using Video Queries",
     "venue": "ICCV 2025",
-    "authors": "Yogesh Kumar (IIT Jodhpur), Uday Agarwal (IIT Jodhpur), Manish Gupta(Microsoft, India), Anand Mishra (IIT Jodhpur)"
+    "authors": "Yogesh Kumar (IIT Jodhpur), Uday Agarwal (IIT Jodhpur), Manish Gupta (Microsoft, India), Anand Mishra (IIT Jodhpur)"
   },
   {
     "sn": 8,
@@ -51,12 +51,54 @@
     "sn": 9,
     "paperTitle": "The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models",
     "venue": "CVPR 2025",
-    "authors": "Naveen George(IITH), Karthik Nandan Dasaraju(IIT Ropar), Rutheesh Reddy Chittepu(IITH), Konda Reddy Mopuri(IITH)"
+    "authors": "Naveen George (IITH), Karthik Nandan Dasaraju (IIT Ropar), Rutheesh Reddy Chittepu (IITH), Konda Reddy Mopuri (IITH)"
   },
   {
     "sn": 10,
     "paperTitle": "Towards Safer and Understandable Driver Intention Prediction",
     "venue": "ICCV 2025",
     "authors": "Mukilan (IIIT-Hyd), Shankar (IIIT-Hyd), Shyam (Politechnico de Torino), Carlo (Politechnico de Torino), Jawahar (IIIT-Hyd)"
+  },
+  {
+    "sn": 11,
+    "paperTitle": "Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD",
+    "venue": "ICRA 2025",
+    "authors": "Ruthvik Bokkasam (IIIT-Hyd), Shankar Gangisetty (IIIT-Hyd), A. H. Abdul Hafez (King Faisal University), C V Jawahar (IIIT-Hyd)"
+  },
+  {
+    "sn": 12,
+    "paperTitle": "MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World",
+    "venue": "CVPR 2025",
+    "authors": "Ankit Dhiman, Manan Shah, R Venkatesh Babu"
+  },
+  {
+    "sn": 13,
+    "paperTitle": "Concept Siever: Towards Controllable Erasure of Concepts from Diffusion Models without Side-effect",
+    "venue": "NeurIPS 2025",
+    "authors": "Aakash Kumar Singh (IISc), Priyam Dey (IISc), Sribhav Srivatsa (IISc), Venkatesh Babu R. (IISc)"
+  },
+  {
+    "sn": 14,
+    "paperTitle": "SEMI-CAVA: A Causal Variational Approach to Semi-Supervised Learning",
+    "venue": "AAAI 2025",
+    "authors": "Saptarshi Saha (ISI Kolkata), Pratyush Kumar Sahoo (ISI Kolkata), and Utpal Garain (ISI Kolkata)"
+  },
+  {
+    "sn": 15,
+    "paperTitle": "Zero Shot Depth Aware Image Editing with Diffusion Models",
+    "venue": "ECCV 2025",
+    "authors": "Rishubh Parihar, Sachidanand VS, R. Venkatesh Babu"
+  },
+  {
+    "sn": 16,
+    "paperTitle": "Compass Control: Multi Object Orientation Control for Text-to-Image Generation",
+    "venue": "CVPR 2025",
+    "authors": "Rishubh Parihar* (IISc Bangalore), Vaibhav Agrawal* (IIIT Hyderabad), Sachidanand VS (IISc Bangalore), R. Venkatesh Babu (IISc Bangalore)"
+  },
+  {
+    "sn": 17,
+    "paperTitle": "Camouflage Anything: Learning to Hide using Controlled Out-painting and Representation Engineering",
+    "venue": "ICCV 2025",
+    "authors": "Biplab Das (IIIT Bangalore, Samsung R&D Institute Bangalore), Viswanath Gopalakrishnan (IIIT Bangalore)"
   }
 ]
