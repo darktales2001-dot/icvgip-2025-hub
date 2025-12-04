@@ -35,226 +35,457 @@
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 165,
     "paperTitle": "Rethinking Detection Heads: Enhancing YOLO for Drone Image Object Detection",
     "authors": "Rutvik Patel (Indian Institute of Technology Delhi); Anureet Chhabra (Indian Institute of Technology Delhi)*; Ankita Raj (Indian Institute of Technology Delhi); Chetan Arora (Indian Institute of Technology Delhi)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 88,
     "paperTitle": "Enhancing Spiking Neural Networks with Evidential Deep Learning for Object Classification on Event Based Dataset",
     "authors": "Prabhat Kumar (Indian Institute of Technology, Jammu)*; Badri Narayan Subudhi (Indian Institute of Technology, Jammu); Geatanon Di Caterina (University Of Strathclyde); Vinit Jakhetiya (Indian Institute of Technology, Jammu); T. Veerakumar (National Institute of Technology, Goa)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 122,
     "paperTitle": "CamPedV2: A Comprehensive Dataset for Advancing Pedestrian Detection Models",
     "authors": "Sukesh Babu V S (IIITDM Kancheepuram); Rahul Raman (IIITDM Kancheepuram)*",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 179,
     "paperTitle": "B2R2Net: Robust and Lightweight Bounding Box Refining & Refactoring Network for Geometry-Agnostic Screenshots",
     "authors": "Udayraj Mangal (Samsung R & D Institute Bangalore)*; Anchal Pandey (Samsung R & D Institute Bangalore)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 236,
     "paperTitle": "Can Unsupervised Segmentation Reduce Annotation Costs for Video Semantic Segmentation?",
     "authors": "Samik Some (IIT Kanpur)*; Vinay Namboodiri (University of Bath)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 240,
     "paperTitle": "Lightweight Models for Classification and Detection via Knowledge Distillation and Distance Correlation",
     "authors": "Sumesh Prasad (IIIT Delhi); Ojaswini Sharma (IIIT Delhi)*; Saket Anand (IIIT Delhi)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 274,
     "paperTitle": "Quantformers: Bits to Qubits",
     "authors": "Sanjay Bhargav Dharavath (International Institute of Information Technology - Hyderabad)*; Hanvitha Saraswathi Mukkamala (International Institute of Information Technology - Hyderabad)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 180,
     "paperTitle": "Context-qsmnet: Enhancing Generalization in Quantitative Susceptibility Mapping with Context-Aware Deep Neural Networks",
     "authors": "Thomas Apotheker (University of Amsterdam); Siraj T M (IISER TVM); Raji Susan Mathew (IISER TVM); Navchetan Awasthi (University of Amsterdam)*",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 258,
     "paperTitle": "Pooling Diverse Voices: Logarithmic Binary Fusion for Server-Side Pseudo-Labeling in Federated Learning",
     "authors": "Aditi Palit (Indian Institute of Technology)*; Kalidas Yeturu (Indian Institute of Technology); Roshin Roy (IIT Hyderabad)*; Konda Reddy Mopuri (IIT Hyderabad)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 150,
     "paperTitle": "Metric-based Regularization for Training GANs on Long-Tailed Datasets",
-    "authors": "Chirayu Agrawal (Shiv Nadar Institute of Eminence, Greater Noida, India); Snehasis Mukherjee (Shiv Nadar Institute of Eminence, Greater Noida, India)*",
+    "authors": "Roshin Roy (IIT Hyderabad)*; Konda Reddy Mopuri (IIT Hyderabad)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 138,
     "paperTitle": "SCoDA: Self-supervised Continual Domain Adaptation",
     "authors": "Harichandana B S S (Samsung R&D, Bangalore)*; Sumit Kumar (Samsung R&D Institute Bangalore); Deepak Chaurasia (Samsung R&D Institute Bangalore)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 168,
     "paperTitle": "Adaptive Binary Wallpaper Abstraction for Power-Conscious Always-On Displays",
     "authors": "Gowthamaan Palani (Indian Institute of Technology Madras)*; Ganapathy Krishnamurthi (Indian Institute of Technology Madras)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 219,
     "paperTitle": "MDFN: Efficient Image Super-Resolution through Multi-Domain Feature Fusion",
     "authors": "Anuran Basu (Shiv Nadar Institution of Eminence, Delhi NCR); Kotha Kartheek (Shiv Nadar Institution of Eminence, Delhi NCR); Lingamaneni Gnanesh Chowdary (Shiv Nadar Institution of Eminence, Delhi NCR); Snehasis Mukherjee (Shiv Nadar Institute of Eminence, Greater Noida, India)*",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 169,
     "paperTitle": "A Unified model for the Adverse Weather Removal using Squeeze-and-Excitation Attention",
     "authors": "Gowthamaan Palani (Indian Institute of Technology Madras)*; Ganapathy Krishnamurthi (Indian Institute of Technology Madras)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 36,
     "paperTitle": "Multi-modal Image Colorization with Instance-Aware Transformer network",
     "authors": "Mrinmoy Sen (Samsung R&D Institute India - Bangalore)*; Akshay Bankar (Samsung R&D Institute India - Bangalore); Ravikiran Kundapur Subraya (Samsung R&D Institute India - Bangalore); Roopa Sheshadri (Samsung R&D Institute India - Bangalore); Kyuwon Kim (Samsung Electronics)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 238,
     "paperTitle": "IDANet: Identity-Driven Attention Network for Unsupervised Synthetic Noise Removal",
     "authors": "Akhilaraj D (College of Engineering Trivandrum)*; Joseph Zacharias (College of Engineering Trivandrum)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 366,
     "paperTitle": "A New Diverse Dataset for rPPG Estimation, and Benchmarking with Standard Frameworks",
-    "authors": "Navdha Bhardwaj (Indian Institute of Technology, MANDI)*; Yashit Verma (IIT KGP); Arnav Bhavsar (IIT MANDI)",
+    "authors": "Navdha Bhardwaj (Indian Institute of Technology, MANDI)*; yashit verma (IIT KGP); Arnav Bhavsar (IIT MANDI)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 174,
+    "paperTitle": "Equitable Dermatology: Adversarial and Spectral Techniques for Fair Skin Lesion Classification",
+    "authors": "Rajeev Dwivedi (Indian Institute of Science Education and Research Bhopal)*; Mohammedkaif Rafiq Kalagond (Indian Institute of Science Education and Research Bhopal); Monika Sharma (TCS Research); Amit Sangroya (TCS Research)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 196,
+    "paperTitle": "T2M-CycleGAN: A Knowledge-Distilled CycleGAN Framework for High-Fidelity 3T-to-7T MRI Translation",
+    "authors": "Franklin Burhagohain (Indian Institute of Information Technology, Guwahati)*; Shovan Barma (Indian Institute of Information Technology Guwahati)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 107,
+    "paperTitle": "TongueSight: AI-Powered Tongue Analysis for Digitizing Traditional Medicine Diagnostics",
+    "authors": "Jagannath Prasad Sahoo (Indian Institute of Technology, Mandi)*; Vikas Sharma (Indian Institute of Technology, Mandi); Amit Shukla (Indian Institute of Technology, Mandi); Durgesh Ameta (Indian Institute of Technology, Mandi); Jagadeesh R. (Indian Institute of Technology, Mandi); Jay Shorey (Indian Institute of Technology, Mandi); Sindhuja Reddy (Indian Institute of Technology Mandi); Pranav Prashant Shewale (Vellore Institute of Technology, Chennai); Sushant Sharma (Indian Institute of Technology, Mandi)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 284,
+    "paperTitle": "Spatial - Aware Hierarchical Graph Networks for Volumetric Medical Image Segmentation",
+    "authors": "Dhivya S.D (University Of Madras); Chithra PL (University of Madras)*",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 171,
+    "paperTitle": "CP-SIS: Learnable Class Prototypes for Efficient Surgical Instrument Segmentation",
+    "authors": "Kunal Dargan (Indian Institute of Technology Delhi)*; Nikhil Kumar Jangamreddy (Indian Institute of Technology Delhi); Chetan Arora (Indian Institute of Technology Delhi)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 294,
+    "paperTitle": "Self-Supervised Learning for Annotation-Efficient Endoscopic Instrument Segmentation",
+    "authors": "Harinandan Shukla (IITR)*; Prankur Shukla (IIITDM Kancheepuram); Umarani Jayaraman (IIITDM Kancheepuram)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 66,
+    "paperTitle": "Alzheimer's Disease Classification using Retinal OCT: TransNetOCT and Swin Transformer Models",
+    "authors": "Siva Manohar Reddy Kesu (Qualizeal India Private Ltd)*; Neelam Sinha (Centre for Brain Research, Indian Institute of Science); Hariharan Ramasangu (Relecura Inc); Thomas Gregor Issac (Centre for Brain Research, Indian Institute of Science)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 237,
+    "paperTitle": "UNet-Mamba Fusion for Automated Glaucoma Screening via Cup-to-Disc Ratio Estimation",
+    "authors": "Devika R G (CET)*; Sivakumar R (Government Engineering College, Bartonhill, Trivandrum,); Linu Shine (College of Engineering, Trivandrum); Jiji C V (Shiv Nadar University Chennai)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 358,
+    "paperTitle": "EEG-Guided Image Synthesis via Hybrid Embedding and Diffusion Framework",
+    "authors": "Jyoti Nigam (IITMANDI)*; Utsav Jain (IIT Mandi); Piyush Kumar (IIT Mandi); Aryan Raj (IIT Mandi); Gopesh Sharma (IIT Mandi); Aaditya Singh (IIT Mandi); Asmit Kumar (IIT Mandi); Aditya Nigam (Indian Institute of Technology, Mandi); Arnav Bhavsar (IIT Mandi)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 360,
+    "paperTitle": "Margin Adaptation: Enhanced Label-Distribution-Aware Margins with Strategic Reweighting and Representation Optimization",
+    "authors": "Ayushman Datta (SRM Institute of Science & Technology, Kattankulathur, Chennai); Priyobrata Mondal (Indian Statistical Institute, Kolkata)*; Swagatam Das (Indian Statistical Institute, Kolkata)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 98,
+    "paperTitle": "Classification of Brain Tumours Using Multimodal Driven Deep Learning Techniques",
+    "authors": "DARA DEEPTHI (NATIONAL INSITITUTE OF TECHNOLOGY WARANGAL) *; P Radha Krishna (NATIONAL INSITITUTE OF TECHNOLOGY WARANGAL)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 290,
     "paperTitle": "SemiHastakshar: Generalizable Indic Handwritten OCR through Semi-Supervised Learning",
     "authors": "Evani Lalitha (International Institute of Information Technology, Hyderabad)*; Ajoy Mondal (International Institute of Information Technology, Hyderabad); C V Jawahar (International Institute of Information Technology, Hyderabad)",
     "session": "Poster-Session-1",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 228,
+    "paperTitle": "Writer Identification from Multilingual Handwritten Indic Text Document Images",
+    "authors": "Namrata Das (Indian Institute of Engineering Science and Technology, Shibpur); Samit Biswas (Indian Institute of Engineering Science and Technology, Shibpur, Kolkata)*",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 60,
+    "paperTitle": "Label-Free Adaptation of Indic Printed OCR",
+    "authors": "Akash Manna (IIIT-Hyderabad)*; Ajoy Mondal (IIIT Hyderabad); Radha Krishna Deshpande (IIIT Hyderabad); CV Jawahar (IIIT Hyderabad)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 143,
+    "paperTitle": "FormLens: From Ink to Insight with Adapting Vision-Language Models for Handwritten Form Digitization",
+    "authors": "Shaon Bhattacharyya (International Institute of Information Technology Hyderabad)*; Ajoy Mondal (International Institute of Information Technology Hyderabad); C. V. Jawahar (International Institute of Information Technology Hyderabad)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 183,
     "paperTitle": "Towards Scalable Sign Production: Leveraging Co-Articulated Gloss Dictionary for Fluid Sign Synthesis",
     "authors": "Aparna Agrawal (IIITH)*; Seshadri Mazumder (IIITH); Vinay Namboodiri (IIITH); C V Jawahar (IIITH); Sayak Dutta (IIT Gandhinagar); Harish Katti (National Institutes of Health); Shashikant Verma (IIT Gandhinagar)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 343,
     "paperTitle": "UnCageNet: Tracking and Pose Estimation of Caged Animals",
-    "authors": "Shanmuganathan Raman (IIT Gandhinagar); Padmasri P (Thiagarajar College of Engineering)*; Sathya Bama B (Thiagarajar College of Engineering)",
+    "authors": "Sayak Dutta (IIT Gandhinagar)*; Harish Katti (National Institutes of Health); Shashikant Verma (IIT Gandhinagar); Shanmuganathan Raman (IIT Gandhinagar)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
-    "paperTitle": "Milk or mimic? MilkNet: Spectral–Spatial Fusion Net for Brand Authentication in Commercial Milk Products Using Hyperspectral Imaging",
-    "authors": "Mohamed Mansoor Roomi Sindha (Thiagarajar College of Engineering)",
+    "paperId": 307,
+    "paperTitle": "Milk or mimic? MilkNet: Spectral-Spatial Fusion Net for Brand Authentication in Commercial Milk Products Using Hyperspectral Imaging",
+    "authors": "Padmasri P (Thiagarajar College of Engineering)*; Sathya Bama B (Thiagarajar College of Engineering); Mohamed Mansoor Roomi Sindha (Thiagarajar College of Engineering)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 267,
     "paperTitle": "The Green Mile: A Multi-Layered Quest to Reveal, Measure, and Slash Carbon Emissions in AI Training & Inference",
-    "authors": "Subramanyam Sahoo (NIT Hamirpur)*; Om Kathalkar (IIIT Hyderabad)*; Nitin Nilesh (IIIT Hyderabad); Sachin Chaudhari (IIIT Hyderabad); Anoop Namboodiri (IIIT Hyderabad)",
+    "authors": "Subramanyam Sahoo (NIT Hamirpur)*",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 186,
     "paperTitle": "AQIFormer: A Transformer-Based Multi-View Architecture for Cross-City Air Quality Classification",
-    "authors": "Yash Arora (IIIT Hyderabad)*; Aditya Arun (IIIT Hyderabad)",
+    "authors": "Om Kathalkar (IIIT Hyderabad)*; Nitin Nilesh (IIIT Hyderabad); Sachin Chaudhari (IIIT Hyderabad); Anoop Namboodiri (IIIT Hyderabad)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 245,
     "paperTitle": "What is there in an Indian Thali?",
-    "authors": "C V Jawahar (IIIT Hyderabad)",
+    "authors": "Yash Arora (IIIT Hyderabad)*; Aditya Arun (IIIT Hyderabad); C V Jawahar (IIIT Hyderabad)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 162,
     "paperTitle": "Generating Key Postures of Bharatanatyam Adavus with Pose Estimation",
     "authors": "Jagadish Kamble (Indian Institute of Technology Kharagpur)*; Jayanta Mukhopadhyay (Indian Institute of Technology Kharagpur); Debaditya Roy (Indian Institute of Technology Kharagpur); Partha Pratim Das (Ashoka University, Sonipat)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 348,
     "paperTitle": "A Deep Learning Integrated Stacked Ensemble Framework for Futuristic Landslide Prediction using Multimodal Sensor Data",
-    "authors": "Mirothali Chand (Indian Institute of Technology Mandi); Varun Dutt (Indian Institute of Technology Mandi); KV Uday (Indian Institute of Technology Mandi)",
+    "authors": "Mirothali Chand (Indian Institute of Technology Mandi) *; Varun Dutt (Indian Institute of Technology Mandi); KV Uday (Indian Institute of Technology Mandi)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 338,
     "paperTitle": "A Lightweight Dual-Stream Framework for Vision-Based Musth Detection in Elephants",
-    "authors": "Mathusudhanan Sreenivasan (Thiagarajar College of Engineering); Shaan Sindha M (Thiagarajar College of Engineering)",
+    "authors": "priya Kannpiran (Thiagarajar College of Engineering); Mohamed Mansoor Roomi Sindha (Thiagarajar College of Engineering)*; Mathu sudhanan Sreenivasan (Thiagarajar College of Engineering); Shaan Sindha M (Thiagarajar College of Engineering)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 359,
     "paperTitle": "TranSMOTE: Transformer Based Synthetic Minority Oversampling Technique",
-    "authors": "Priyobrata Mondal (Indian Statistical Institute, Kolkata); Soumi Pal (Birla Institute of Technology, Mesra); Swagatam Das (Indian Statistical Institute, Kolkata)",
+    "authors": "Priyobrata Mondal (Indian Statistical Institute, Kolkata)*; Soumi Pal (Birla Institute of Technology, Mesra); Swagatam Das (Indian Statistical Institute, Kolkata)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
     "paperId": 27,
     "paperTitle": "Bayesian Transform Learning",
-    "authors": "Angshul Majumdar (IIIT Delhi); Durba Bhattacharya (St. Xavier's College)",
+    "authors": "Angshul Majumdar (IIIT Delhi) *; Durba Bhattacharya (St. Xavier's College)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 74,
     "paperTitle": "CAV Styler- Making Neural Style Transfer Interpretable and controllable",
-    "authors": "Sunayana Samavedam (International Institute for Information Technology); Avani Gupta (M42); Venkat Adithya (IIIT Hyderabad); Saurabh Saini (Amazon Sciences); P J Narayanan (IIIT Hyderabad)",
+    "authors": "sunayana samavedam (International Institute for Information Technology)*; Avani Gupta (M42); Venkat Adithya (IIIT Hyderabad); Saurabh Saini (Amazon Sciences); P J Narayanan (IIIT Hyderabad)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
     "paperId": 40,
     "paperTitle": "VAD-FedHSM: Video Anomaly Detection in Federated Learning Framework with Local Hard Sample Mining",
-    "authors": "Dillip Sathiyamoorthy (Indian Institute of Technology Guwahati); Prithwijit Guha (Indian Institute of Technology Guwahati)",
+    "authors": "Dillip Sathiyamoorthy (Indian Institute of Technology Guwahati); Prithwijit Guha (Indian Institute of Technology Guwahati)*",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
   {
-    "paperId": 0,
+    "paperId": 207,
+    "paperTitle": "Strongly Connected Components Are All You Need: Graph-Theoretic Interpretability and Optimization for Vision Transformers",
+    "authors": "Devansh Garg (Indian Institute of Technology Mandi)*; Kanika Arora (LightMetrics Technologies Pvt. Ltd.); Nazreen Shah (Indraprastha Institute of Information Technology, Delhi)*; Ashish Sethi (LightMetrics Technologies Pvt. Ltd.); Ranjitha Prasad (Indraprastha Institute of Information Technology, Delhi); Mithun Uliyar (LightMetrics Technologies Pvt. Ltd.); Krishna AG (LightMetrics Technologies Pvt. Ltd.)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 320,
+    "paperTitle": "AMRTNet: Adaptive Multi-Scale Retinex Transformer with Frequency Domain Processing for Low-Light Image Enhancement",
+    "authors": "Keshav Marian (Shiv Nadar University Chennai )*",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 273,
+    "paperTitle": "Enhancing Driving Visibility via Semantic-Guided Knowledge Distillation Framework for Adverse Weather Removal",
+    "authors": "Hanvitha Saraswathi Mukkamala (International Institute of Information Technology - Hyderabad)*; Shankar Gangisetty (International Institute of Information Technology - Hyderabad); Ananya Kulkarni (International Institute of Information Technology - Hyderabad); Veera Ganesh Yalla (International Institute of Information Technology - Hyderabad); C V Jawahar (International Institute of Information Technology - Hyderabad)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 20,
     "paperTitle": "Mask What Matters: Action-Specific Privacy via Object-Layer Transformation",
     "authors": "Aditi Palit (Indian Institute of Technology)*; PRANAY VARNA CHINTHAPATLA (Sree Vidyanikethan Engineering College); DEDEEPYA VEMBULURU (Sri Venkateswara College of Engineering); Kalidas Yeturu (Indian Institute of Technology)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 89,
+    "paperTitle": "A Pixel-Mapping Based Fast Image Rotation Algorithm",
+    "authors": "Chiranjeev Bhaya (Samsung R&D, Bangalore; IIT ISM Dhanbad)*; Mithil Shail (Samsung R&D Bangalore); Chandra Mohan Velpula (Samsung R&D Bangalore); Dhrubajyoti Mandal (Kalinga Institute of Industrial Technology, Bhubaneswar, India ); Sourav Kumar Parida (Kalinga Institute of Industrial Technology, Bhubaneswar, India ); Subhadeep Bhadra (Kalinga Institute of Industrial Technology, Bhubaneswar, India ); Sujoy Datta (Kalinga Institute of Industrial Technology, Bhubaneswar, India )",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 164,
+    "paperTitle": "SPIKECODE: Spiking Autoencoder FrameWork for Lossy Image Compression on Constrained Low-Power Edge Devices",
+    "authors": "Sayan kahali (Tata Consultancy Services Limited); Ajoy Dey (Tata Consultancy Services Limited)*; Aalekhya Mukhopadhyay (Tata Consultancy Services Limited); Sounak Dey (Tata Consultancy Services Limited)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 346,
+    "paperTitle": "Weighted Color-Morphology Feature Fusion for Tuberculosis Bacilli Detection from Cytopathology Images",
+    "authors": "Parshiv Kapoor (Indian Institute of Technology Roorkee); Yash Bansal (Indian Institute of Technology Roorkee); Deychan Myra (All India Institute of Medical Sciences, New Delhi); Sherrin Jacob (All India Institute of Medical Sciences, New Delhi); Venkateswaran K. Iyer (All India Institute of Medical Sciences, New Delhi); Lavleen Singh (All India Institute of Medical Sciences, New Delhi); Aparajita Khan (Indian Institute of Technology (BHU) Varanasi)*; Partha Pratim Roy (Indian Institute of Technology (ISM) Dhanbad)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 332,
+    "paperTitle": "RMA-Net: Residual Multiscale Attention CNN for Hyperspectral Brain Tissue Classification",
+    "authors": "Raj Singh (The LNM Institute of Information Technology, Jaipur)*; Aloke Datta (The LNM Institute of Information Technology, Jaipur)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 314,
+    "paperTitle": "On the Transferability of LaBraM: Evaluating Representations across Visual and Clinical Domains with Convolutional Adapters",
+    "authors": "Pushapdeep Singh (Indian institute of technology, Mandi) *; Jyoti Nigam (Indian institute of technology, Mandi); Medicherla Vamsi Krishna. (Swiss RE GBS India Pvt. Ltd.); Arnav Bhavsar (Indian institute of technology, Mandi); Aditya Nigam (Indian institute of technology, Mandi)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 325,
+    "paperTitle": "TransUNet-Recon: A Transformer-Augmented UNet Architecture for Accelerated MRI Reconstruction",
+    "authors": "Susant Kumar Panigrahi (Indian Institute of Technology Kharagpur)*; Subhoshri Pal (Indian Institute of Engineering Science and Technology, Shibpur (IIEST)); Pradipta Sasmal (Indian Institute of Technology Kharagpur); Debdoot Sheet (Indian Institute of Technology Kharagpur)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 139,
+    "paperTitle": "MFA-U-Net: U-Net with Multi-level Feature Aggregation for Scale-free Medical Image Segmentation",
+    "authors": "Swapnil Thatte (Indian Institute of Technology Jodhpur); Promita Banerjee (All India Institute of Medical Sciences Rishikesh); Mayank Vatsa (Indian Institute of Technology Jodhpur); Richa Singh (Indian Institute of Technology Jodhpur); Bhanu Duggal (All India Institute of Medical Sciences Rishikesh); Angshuman Paul (Indian Institute of Technology, Jodhpur)*",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 178,
+    "paperTitle": "Zero-Shot Autism Behaviour Recognition Leveraging Multimodal Representations and Cross-Dataset Evaluation",
+    "authors": "Darshan Gera (SSSIHL); Vignesh Sai Sankalp Sham (https://www.sssihl.edu.in/); Ritu Raj Pradhan (https: //www.sssihl.edu.in/); S Balasubramanian (https: //www.sssihl.edu.in/); Ravi Mukkamala (https://www.cs. odu.edu/)*; Sreepada V Satya N Sarma (https://www.sssihl. edu.in/)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 277,
+    "paperTitle": "Theoretical Perspective on Histogram Binning with Extension to Multi-label Medical Image Classification",
+    "authors": "Arkapal Panda (Indian Statistical Institute); Aditya Pal (Indian Statistical Institute)*; Utpal Garain (Indian Statistical Institute)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 91,
+    "paperTitle": "Early Diagnosis of Autism through Behaviors from Semi-Structured Triadic Play Interaction Videos",
+    "authors": "S Jeba Berlin (International Institute of Information Technology Bangalore)*; Antara Roy Choudhury (International Institute of Information Technology Bangalore); Arita Noelle Prased (St John's National Academy of Health Sciences); Sowmya Murli (St John's National Academy of Health Sciences); Dinesh Babu Jayagopi (International Institute of Information Technology Bangalore); Vijaya Raman (St John's National Academy of Health Sciences, Bangalore); Shyam Sundar Rajagopalan (Institute of Bioinformatics and Applied Biotechnology, Bangalore)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 288,
+    "paperTitle": "Medical Semantic-Aware Image-Text Alignment loss for Medical Visual Question Answering",
+    "authors": "Vasudha Joshi (Indian Institute of Technology Kharagpur)*; Adrish Adhikari (Indian Institute of Technology Kharagpur); Pabitra Mitra (Indian Institute of Technology Kharagpur); Supratik Bose (Varian Medical Systems)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 148,
+    "paperTitle": "Quality Aware Text-to-Image Synthesis with distortion maps as structural guides",
+    "authors": "Kriti Khare (Indian Institute of Technology, Mandi)*; Parimala Kancharla (Indian Institute of Technology, Mandi)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 170,
+    "paperTitle": "Towards Structured Multimodal Understanding: Scientific Diagram Captioning with Modern VLMs",
+    "authors": "Deepika Kamboj (IIT Jodhpur)*; Gaurav Harit (IIT Jodhpur)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 12,
+    "paperTitle": "ReviewGuard: Context-Aware Detection of AI-Generated Text in Academic Peer Reviews",
+    "authors": "Samarth Garg (ABV-IIITM Gwalior); Debanjan Sadhya (ABV-IIITM Gwalior)*; Sunil Kumar (ABV-IIITM Gwalior)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 316,
+    "paperTitle": "Globally Optimal Vision: Language Alignment via Entropic Convex Transport",
+    "authors": "Satyam Mishra (Vietnam National University); Vishwanath Bijalwan (Amity University Punjab, India)*; Vi Phung (Vietnam National University); Shivam Mishra (Vietnam National University); Rajni Mohana (Amity University Punjab)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 310,
+    "paperTitle": "HGRLiteNet: A Lightweight Hand Gesture Recognition Network",
+    "authors": "Anju J S (College of Engineering Trivandrum, APJ Abdul Kalam Technological University)*; Pradeep R (College of Engineering Trivandrum); Linu Shine (College of Engineering Trivandrum); Sreeni K G (Rajiv Gandhi Institute of Technology)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   },
@@ -269,6 +500,27 @@
     "paperId": 47,
     "paperTitle": "RibCageImp: A Deep Learning Framework for 3D Ribcage Implant Generation",
     "authors": "Gyanendra Chaubey (Indian Institute of Technology, Jodhpur)*; Azad Singh (Indian Institute of Technology, Jodhpur); Aiman Farooq (Indian Institute of Technology, Jodhpur); Deepak Mishra (Indian Institute of Technology, Jodhpur)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 137,
+    "paperTitle": "A CBAM-Enhanced EfficientNet-DCGAN Hybrid CNN for Class-Imbalanced Skin Lesion Classification on HAM10000",
+    "authors": "Somarowthu Gani Lakshmi (Amrita Vishwa Vidyapeetham ); Makkapati Prasanna Lakshmi (Amrita Vishwa Vidyapeetham); Bandaru Ganesh Sai Manideep (Amrita Vishwa Vidyapeetham); Katikela Manaswani (Amrita Vishwa Vidyapeetham); Kalapatapu V S K R Shiva Kumar (Amrita Vishwa Vidyapeetham)*",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 357,
+    "paperTitle": "Topological Analysis of Plant Structure Using Persistent Homology for Genotype Classification",
+    "authors": "Prasenjit Betal (Indian Institute of Technology Kharagpur)*",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 63,
+    "paperTitle": "A Quantitative analysis of Segmentation in Ovarian Cystic USG Using Interpolation-Enhanced Deep Learning Models",
+    "authors": "Veenamol K V (IIIT Kottayam) *; Lidiya Lilly Thampi (IIIT Kottayam)",
     "session": "Poster-Session-2",
     "sessionChair": ""
   }

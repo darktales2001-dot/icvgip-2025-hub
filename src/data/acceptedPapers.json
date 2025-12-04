@@ -82,10 +82,58 @@
   {
     "paperId": 54,
     "paperTitle": "Lightweight and Accurate Deepfake Detection using Gradient-Aware SE-Enhanced EfficientNetV2-S",
-    "abstract": "A novel method for detecting deep-fake images by combining EfficientNetV2-S with Squeeze-and-Excitation (SE) blocks and gradient-based attention mechanisms. The proposed method achieves accuracy of 98.29% and 98.90% on CIFAKE and DFFD datasets respectively with only 26.15 million parameters.",
+    "abstract": "A novel method for detecting deep-fake images by combining EfficientNetV2-S with Squeeze-and-Excitation (SE) blocks and gradient-based attention mechanisms is proposed. The proposed method achieves accuracy of 98.29% and 98.90% on CIFAKE and DFFD datasets respectively with only 26.15 million parameters.",
     "primaryContactAuthorName": "Prof. Ketan P. Detroja",
     "primaryContactAuthorEmail": "",
     "authors": "Prof. Ketan P. Detroja IIT Hyderabad*"
+  },
+  {
+    "paperId": 60,
+    "paperTitle": "Label-Free Adaptation of Indic Printed OCR",
+    "abstract": "Optical Character Recognition (OCR) for Indic scripts faces severe performance drops when models are deployed in domains with unseen fonts, styles, or complex background common in historical and low-resource archives. We present a label-free adaptation framework for Indic printed OCR requiring zero manual annotations. Our method uses an iterative semi-supervised training pipeline, starting from a pre-trained OCR model and refining it with high-confidence pseudo-labels from large unlabeled word-image corpora. A confidence-based selection mechanism filters noisy predictions, enabling effective domain adaptation even under heavy image degradation.",
+    "primaryContactAuthorName": "Akash Nanna",
+    "primaryContactAuthorEmail": "akash.nanna@research.iiit.ac.in",
+    "authors": "Akash Nanna (IIIT-Hyderabad)*; Ajoy Mondal (IIIT Hyderabad); Radha Krishna Deshpande (IIIT Hyderabad); CV Jawahar (IIIT Hyderabad)"
+  },
+  {
+    "paperId": 63,
+    "paperTitle": "A Quantitative analysis of Segmentation in Ovarian Cystic USG Using Interpolation-Enhanced Deep Learning Models",
+    "abstract": "Pelvic ultrasound imaging is a non-invasive, cost-effective technique for diagnosing ovarian cysts and masses. However, automated cyst segmentation remains challenging due to low contrast and noise. We examine the impact of image interpolation techniques on the performance of deep learning models for cyst segmentation. Bicubic interpolation yielded the best balance between segmentation accuracy and visual quality, achieving the highest Dice Score (0.89) and IoU (0.77).",
+    "primaryContactAuthorName": "Veenamol K V",
+    "primaryContactAuthorEmail": "veena.rahul@gmail.com",
+    "authors": "Veenamol K V (IIIT Kottayam)*; Lidiya Lilly Thampi (IIIT Kottayam)"
+  },
+  {
+    "paperId": 64,
+    "paperTitle": "Screen2UI: Pixel-Only On-Device UI Hierarchy Generation",
+    "abstract": "Mobile apps often expose limited or missing accessibility metadata. We present Screen2UI, an on-device system that reconstructs a structured UI hierarchy directly from a screenshot. At its core is MSM-Net, a unified, multi-task detector built on a YOLO11 backbone. On a held-out test set of 15k screens, MSM-Net attains AP@0.5 of 86.4%. Deployed on a Samsung Galaxy S23 Ultra, Screen2UI achieves real-time inference (49ms).",
+    "primaryContactAuthorName": "Anup Kushwaha",
+    "primaryContactAuthorEmail": "k.anup@samsung.com",
+    "authors": "Anup Kushwaha (Samsung R&D Institute Bangalore)*; Gangadhar Sandalya (Samsung R&D Institute Bangalore); Chandramouli Sanchi (Samsung R&D Institute Bangalore); Surya Kumar (Samsung R&D Institute Bangalore); Ajit Thapa (Samsung R&D Institute Bangalore); Edula Sri Ranga Shruthi Reddy (Samsung R&D Institute Bangalore)"
+  },
+  {
+    "paperId": 65,
+    "paperTitle": "Alzheimer's Disease Classification using Retinal OCT, TransNetOCT and Swin Transformer Models",
+    "abstract": "Retinal optical coherence tomography (OCT) images are the biomarkers for neurodegenerative diseases. This work utilizes advanced deep-learning techniques to classify retinal OCT images of subjects with AD and healthy controls. The best classification architecture is TransNetOCT, which has an average accuracy of 90.18% for input OCT images.",
+    "primaryContactAuthorName": "Siva Manohar Reddy Kesu",
+    "primaryContactAuthorEmail": "sivareddy.kesu@cbr-iisc.ac.in",
+    "authors": "Siva Manohar Reddy Kesu (Qualcomm India Private Ltd)*; Neelam Sinha (Centre for Brain Research, Indian Institute of Science); Hariharan Ramasangu (Relecura Inc); Thomas Gregor Issac (Centre for Brain Research, Indian Institute of Science)"
+  },
+  {
+    "paperId": 69,
+    "paperTitle": "Evaluating Illumination Effects on AU Intensity in Bone-Driven Facial Animation of 3D Avatar",
+    "abstract": "This study investigates how different lighting conditions affect the perceived intensity of facial expressions in bone-based animations. We rendered a series of animated sequences for Action Units (AUs) under four lighting environments. The results demonstrate that lighting has a measurable impact on the visibility and expressiveness of bone driven animations.",
+    "primaryContactAuthorName": "Bavneet Kaur",
+    "primaryContactAuthorEmail": "bavneet04@gmail.com",
+    "authors": "Bavneet Kaur (Punjabi University, Patiala)*; Gurpreet Singh Josan (Punjabi University, Patiala)"
+  },
+  {
+    "paperId": 74,
+    "paperTitle": "CAV Styler- Making Neural Style Transfer Interpretable and Controllable",
+    "abstract": "Neural Style Transfer (NST) traditionally applies a fixed style to a target image, offering limited control. In this paper, we introduce CAV Styler, a human-interpretable style transfer approach. We exploit human interpretable concepts such as textures, blurs, and style details to enable fine-grained control over stylization.",
+    "primaryContactAuthorName": "sunayana sarvadevam",
+    "primaryContactAuthorEmail": "sunayana.samavedam@research.iiit.ac.in",
+    "authors": "sunayana sarvadevam (International Institute of Information Technology)*; Avani Gupta (M42); Venkat Adithya (IIIT Hyderabad); Saurabh Saini (Amazon Sciences); P J Narayanan (IIIT Hyderabad)"
   },
   {
     "paperId": 76,
@@ -96,12 +144,60 @@
     "authors": "Pratyush Jena (IIIT Hyderabad); Amal Joseph (IIIT Hyderabad); Arnav Sharma (IIIT Hyderabad); Ravi Kiran Sarvadevabhatla (IIIT Hyderabad)*"
   },
   {
+    "paperId": 88,
+    "paperTitle": "Enhancing Spiking Neural Networks with Evidential Deep Learning for Object Classification on Event Based Dataset",
+    "abstract": "Spiking Neural Networks (SNNs) represent a promising approach for energy-efficient, event-driven computation. This work presents a novel framework that integrates two complementary techniques: event-based data augmentation (EDA) and evidential deep learning (EDL) for modeling uncertainty. Experimental results show that our proposed framework achieves classification accuracies of 76.67% and 77.20% on CIFAR10-DVS and N-Caltech101 datasets, respectively.",
+    "primaryContactAuthorName": "Prabhat Kumar",
+    "primaryContactAuthorEmail": "prabhatku88@gmail.com",
+    "authors": "Prabhat Kumar (Indian Institute of Technology, Jammu)*; Badri Narayan Subudhi (Indian Institute of Technology, Jammu); Gaetano Di Caterina (University of Strathclyde); Vinit Jakhetiya (Indian Institute of Technology, Jammu); T. Veerakumar (National Institute of Technology, Goa)"
+  },
+  {
+    "paperId": 89,
+    "paperTitle": "A Pixel-Mapping Based Fast Image Rotation Algorithm",
+    "abstract": "This paper presents a novel single-pass algorithm for image rotation that significantly enhances computational efficiency. It processes the entire rows or columns of pixels as unified vectors by dynamically selecting between row-major and column-major operations. The proposed method offers a scalable, efficient, and precise solution for image rotation.",
+    "primaryContactAuthorName": "Chiranjeev Bhaya",
+    "primaryContactAuthorEmail": "cbhaya@gmail.com",
+    "authors": "Chiranjeev Bhaya (Samsung R&D, Bangalore; IIT ISM Dhanbad)*; Mithil Shail (Samsung R&D, Bangalore); Chandra Mohan Velpula (Samsung R&D, Bangalore); Dhruvajoyti Nandal (Kalinga Institute of Industrial Technology, Bhubaneswar, India); Sourav Kumar Parida (Kalinga Institute of Industrial Technology, Bhubaneswar, India); Subhadeep Bhadra (Kalinga Institute of Industrial Technology, Bhubaneswar, India); Sujoy Datta (Kalinga Institute of Industrial Technology, Bhubaneswar, India)"
+  },
+  {
     "paperId": 90,
     "paperTitle": "HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs",
     "abstract": "We address hierarchical hallucinations in Multimodal Large Language Models through internal representation shifts. Our approach bridges the gap between language and vision modalities for improved factual consistency.",
     "primaryContactAuthorName": "Sukanya Das",
     "primaryContactAuthorEmail": "",
     "authors": "Sukanya Das (Indian Institute of Technology Kharagpur)*; Debasis Samanta (Indian Institute of Technology Kharagpur); Monalisa Sarma (Indian Institute of Technology Kharagpur); Sujoy Nath (Netaji Subhash Engineering College); Arkaprabha Basu (TCG Crest)*; Sharanya Dasgupta (Indian Statistical Institute, Kolkata); Swagatam Das (Indian Statistical Institute, Kolkata)"
+  },
+  {
+    "paperId": 91,
+    "paperTitle": "Early Diagnosis of Autism through Behaviors from Semi-Structured Triadic Play Interaction Videos",
+    "abstract": "Computational analysis of children's play-based behaviors provides insights into subtle atypical traits associated with Autism Spectrum Disorder (ASD). We propose a two-stage video-based pipeline for ASD detection. The framework leverages Conv1D, ResNet2D, and multi-scale ConvTransformers to model both local and global feature relationships. Experimental results demonstrate a maximum mean Average Precision (mAP) of 48 across 18 behavior classes.",
+    "primaryContactAuthorName": "S Jeba Berlin",
+    "primaryContactAuthorEmail": "jeba.berlin@iiitb.ac.in",
+    "authors": "S Jeba Berlin (International Institute of Information Technology Bangalore)*; Antara Roy Choudhury (International Institute of Information Technology Bangalore); Anita Neville Prasad (St John's National Academy of Health Sciences); Sowmya Murli (St John's National Academy of Health Sciences); Dinesh Babu Jayagopi (International Institute of Information Technology Bangalore); Vijaya Raman (St John's National Academy of Health Sciences, Bangalore); Shyam Sundar Rajagopalan (Institute of Bioinformatics and Applied Biotechnology,Bangalore)"
+  },
+  {
+    "paperId": 96,
+    "paperTitle": "Classification of Brain Tumours Using Multimodal Driven Deep Learning Techniques",
+    "abstract": "This study proposes a multimodal deep learning framework that integrates temporal, spatial, and clinical data to enhance brain tumour classification. The model combines a ResNet50 based Convolutional Neural Network along with a Bidirectional Long Short-Term Memory (BiLSTM) network. Experimental outcomes on a multimodal dataset demonstrate a classification accuracy of 93.5%.",
+    "primaryContactAuthorName": "DARA DEEPTHI",
+    "primaryContactAuthorEmail": "dd23resch07@student.nitw.ac.in",
+    "authors": "DARA DEEPTHI (NATIONAL INSTITUTE OF TECHNOLOGY WARANGAL)*; P Radha Krishna (NATIONAL INSTITUTE OF TECHNOLOGY WARANGAL)"
+  },
+  {
+    "paperId": 100,
+    "paperTitle": "T2M-CycleGAN: A Knowledge-Distilled CycleGAN Framework for High-Fidelity 3T-to-7T MRI Translation",
+    "abstract": "This paper introduces Transformer-to-Mamba CycleGAN (T2M-CycleGAN) Knowledge Distillation (KD) framework for generating high-resolution 7T-like MRI from 3T scans using unpaired data. Experimental results show that the distilled student closely matches the teacher's PSNR and SSIM performance with a peak PSNR of 31.20 and SSIM of 0.88.",
+    "primaryContactAuthorName": "Franklin Buragohain",
+    "primaryContactAuthorEmail": "franklin.buragohain@iitg.ac.in",
+    "authors": "Franklin Buragohain (Indian Institute of Information Technology, Guwahati)*; Shovan Barma (Indian Institute of Information Technology Guwahati)"
+  },
+  {
+    "paperId": 107,
+    "paperTitle": "TongueSight: AI-Powered Tongue Analysis for Digitizing Traditional Medicine Diagnostics",
+    "abstract": "We present TongueSight, an AI-driven diagnostic pipeline that leverages both object detection and deep segmentation to quantify tongue characteristics indicative of systemic wellness. TongueSight achieves 93.0% overall accuracy, outperforming state-of-the-art methods.",
+    "primaryContactAuthorName": "Jagannath Prasad Sahoo",
+    "primaryContactAuthorEmail": "b21118@students.iitmandi.ac.in",
+    "authors": "Jagannath Prasad Sahoo (Indian Institute of Technology, Mandi)*; Vikas Sharma (Indian Institute of Technology, Mandi); Amit Shukla (Indian Institute of Technology, Mandi); Durgesh Ameta (Indian Institute of Technology, Mandi); Jagadeesh K (Indian Institute of Technology, Mandi); Jay Shorey (Indian Institute of Technology, Mandi); Sindhuja Reddy (Indian Institute of Technology, Mandi); Pranav Prashant Shewale (Vellore Institute of Technology, Chennai); Sushant Sharma (Indian Institute of Technology, Mandi)"
   },
   {
     "paperId": 108,
@@ -112,12 +208,28 @@
     "authors": "Shehroz S. Khan (University Health Network); Petar Przulj (University of Toronto); Ahmed Ashraf (University of Manitoba); Ali Abedi (University Health Network)*"
   },
   {
+    "paperId": 117,
+    "paperTitle": "Railway Infrastructure Segmentation Using Pyramid Attention Network (PAN)",
+    "abstract": "We propose an intelligent AI based system leveraging a Pyramid Attention Network (PAN) decoder fused with advanced encoders like EfficientNet B4 to identify crucial infrastructure components. The proposed system outperforms existing models, offering a scalable and real-time monitoring solution.",
+    "primaryContactAuthorName": "Sai Sri Harsha Chintalapudi",
+    "primaryContactAuthorEmail": "harshachintalapudi44@gmail.com",
+    "authors": "Lakshmi Revathi Kosuri (Velagapudi Ramakrishna Siddhartha Engineering College); Sai Sri Harsha Chintalapudi (Velagapudi Ramakrishna Siddhartha Engineering College)*; Sree Krishna Anirudh Suri (Velagapudi Ramakrishna Siddhartha Engineering College); Pennam Namiburru (Velagapudi Ramakrishna Siddhartha Engineering College)"
+  },
+  {
     "paperId": 119,
     "paperTitle": "Sharing the Learned Knowledge-base to Estimate Convolutional Filter Parameters for Continual Image Restoration",
     "abstract": "We propose a method for sharing learned knowledge to estimate convolutional filter parameters for continual image restoration tasks, enabling efficient adaptation to new degradation types.",
     "primaryContactAuthorName": "Aupendu Kar",
     "primaryContactAuthorEmail": "",
     "authors": "Aupendu Kar (Dolby Laboratories, Inc.)*; Krishnendu Ghosh (IIT Kharagpur); Prabir Kumar Biswas (IIT Kharagpur)"
+  },
+  {
+    "paperId": 122,
+    "paperTitle": "CamPedV2: A Comprehensive Dataset for Advancing Pedestrian Detection Models",
+    "abstract": "We present CamPedV2, a comprehensive pedestrian detection dataset comprising 114,007 images and 545,093 annotated pedestrian instances. The dataset includes real-world foggy and rainy conditions, improving model resilience in weather-degraded scenarios.",
+    "primaryContactAuthorName": "Rahul Raman",
+    "primaryContactAuthorEmail": "rahul@iiitdm.ac.in",
+    "authors": "Sukesh Babu V S (IIITDM Kancheepuram); Rahul Raman (IIITDM Kancheepuram)*"
   },
   {
     "paperId": 130,
@@ -136,12 +248,44 @@
     "authors": "Arghya Pratihar (Indian Statistical Institute)*; Swagato Das (Indian Statistical Institute); Swagatam Das (Indian Statistical Institute)"
   },
   {
+    "paperId": 137,
+    "paperTitle": "A CBAM-Enhanced EfficientNet-DCGAN Hybrid CNN for Class-Imbalanced Skin Lesion Classification on HAM10000",
+    "abstract": "This paper presents a hybrid deep learning framework to improve binary skin lesion classification using the HAM10000 dataset. The model integrates EfficientNet-B3 with a Convolutional Block Attention Module (CBAM) and uses DCGAN for synthetic cancer images. The proposed model achieves over 96.19% accuracy.",
+    "primaryContactAuthorName": "Kalapatapu V S K R Shiva Kumar",
+    "primaryContactAuthorEmail": "k_shivakumar@av.students.amrita.edu",
+    "authors": "Somarouthu Dani Lakshmi (Amrita Vishwa Vidyapeetham); Nakkapatla Prasanna Lakshmi (Amrita Vishwa Vidyapeetham); Bundaru Ganesh Sai Manideep (Amrita Vishwa Vidyapeetham); Kakita Manasvani (Amrita Vishwa Vidyapeetham); Kalapatapu V S K R Shiva Kumar (Amrita Vishwa Vidyapeetham)*"
+  },
+  {
+    "paperId": 138,
+    "paperTitle": "SCoDA: Self-supervised Continual Domain Adaptation",
+    "abstract": "We introduce Self-supervised Continual Domain Adaptation (SCoDA). We avoid reliance on supervised pre-training by initializing with a teacher model pre-trained via self-supervision (SSL) and adapt the principle of geometric manifold alignment.",
+    "primaryContactAuthorName": "Snehasis Mukherjee",
+    "primaryContactAuthorEmail": "snehasis.mukherjee@snu.edu.in",
+    "authors": "Chirayu Agrawal (Shiv Nadar Institute of Eminence, Greater Noida, India); Snehasis Mukherjee (Shiv Nadar Institute of Eminence, Greater Noida, India)*"
+  },
+  {
+    "paperId": 139,
+    "paperTitle": "MFA-U-Net: U-Net with Multi-level Feature Aggregation for Scale-free Medical Image Segmentation",
+    "abstract": "We propose MFA-U-Net, a novel architecture that integrates multi-level feature segmentation with a refinement module. Our model fuses multi-scale encoder features and employs additive attention gates. MFA-U-Net achieves significant improvements in Dice coefficients.",
+    "primaryContactAuthorName": "Angshuman Paul",
+    "primaryContactAuthorEmail": "apaul@iitj.ac.in",
+    "authors": "Swapnil Thatte (Indian Institute of Technology Jodhpur); Promila Banerjee (All India Institute of Medical Sciences Rishikesh); Mayank Vatsa (Indian Institute of Technology Jodhpur); Richa Singh (Indian Institute of Technology Jodhpur); Bhanu Duggal (All India Institute of Medical Sciences Rishikesh); Angshuman Paul (Indian Institute of Technology Jodhpur)*"
+  },
+  {
     "paperId": 140,
     "paperTitle": "CSGaze: Context-aware Social Gaze Prediction",
     "abstract": "We present CSGaze for context-aware social gaze prediction, modeling how humans direct their attention in social scenarios by considering contextual cues.",
     "primaryContactAuthorName": "Surbhi Madan",
     "primaryContactAuthorEmail": "",
     "authors": "Surbhi Madan (IIT Ropar); Shreya Ghosh (Curtin University); Ramanathan Subramanian (University of Canberra); Shreya Gedeon (Curtin University); Abhinav Dhall (Monash University)"
+  },
+  {
+    "paperId": 145,
+    "paperTitle": "FormLens: From Ink to Insight with Adapting Vision-Language Models for Handwritten Form Digitization",
+    "abstract": "We introduce FormLens, an adaptation of a vision-language model for end-to-end form understanding that directly transforms handwritten forms into structured key-value pairs. Built via Low-Rank Adaptation (LoRA), FormLens achieves superior accuracy and robustness.",
+    "primaryContactAuthorName": "Shaon Bhattacharyya",
+    "primaryContactAuthorEmail": "shaon.b@research.iiit.ac.in",
+    "authors": "Shaon Bhattacharyya (International Institute of Information Technology Hyderabad)*; Ajoy Mondal (International Institute of Information Technology Hyderabad); C. V. Jawahar (International Institute of Information Technology Hyderabad)"
   },
   {
     "paperId": 147,
@@ -152,12 +296,100 @@
     "authors": "Advait Kisar (Indian Institute of Technology Madras)*; Sumeet Shekhar (Indian Institute of Technology Madras); Gopi Raju Matta (Indian Institute of Technology Madras); Kaushik Mitra (Indian Institute of Technology Madras)"
   },
   {
+    "paperId": 148,
+    "paperTitle": "Quality Aware Text-to-Image Synthesis with distortion maps as structural guides",
+    "abstract": "We propose a two-fold solution to address issues in Stable Diffusion. We introduce DistFormer to generate distortion maps and QASD (Quality Aware Stable Diffusion) which employs both textual and distortion embeddings as joint guidance.",
+    "primaryContactAuthorName": "Kriti Khare",
+    "primaryContactAuthorEmail": "t23069@students.iitmandi.ac.in",
+    "authors": "Kriti Khare (Indian Institute of Technology, Mandi)*; Parimala Kancharla (Indian Institute of Technology, Mandi)"
+  },
+  {
+    "paperId": 150,
+    "paperTitle": "Metric-based Regularization for Training GANs on Long Tailed Datasets",
+    "abstract": "We introduce a metric-based regularizer designed to alleviate class-specific mode collapse and improve the diversity of generated samples in GANs on long-tailed datasets.",
+    "primaryContactAuthorName": "Roshin Roy",
+    "primaryContactAuthorEmail": "roshinroy47@gmail.com",
+    "authors": "Roshin Roy (IIT Hyderabad)*; Konda Reddy Mopuri (IIT Hyderabad)"
+  },
+  {
+    "paperId": 153,
+    "paperTitle": "FedLeaf:Decentralizing Leaf Disease Detection with Self-Supervised Federated Learning and Consensus",
+    "abstract": "We introduce FedLeaf, a decentralized framework integrating adaptive superpixel segmentation, redundancy-aware self-supervised learning, and blockchain-driven federated learning for leaf disease detection.",
+    "primaryContactAuthorName": "Sagnik Ghosh",
+    "primaryContactAuthorEmail": "sagnikghosh@gmail.com",
+    "authors": "Sagnik Ghosh (INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR)*"
+  },
+  {
+    "paperId": 162,
+    "paperTitle": "Generating Key Postures of Bharatanatyam Adavus with Pose Estimation",
+    "abstract": "We propose a pose-aware generative framework integrated with a pose estimation module to generate key postures of Bharatanatyam. Our results demonstrate that incorporating pose supervision significantly enhances quality and realism.",
+    "primaryContactAuthorName": "Jagadish Kamble",
+    "primaryContactAuthorEmail": "jkkamble@pict.edu",
+    "authors": "Jagadish Kamble (Indian Institute of Technology Kharagpur)*; Jayanta Mukhopadhyay (Indian Institute of Technology Kharagpur); Debaditya Roy (Indian Institute of Technology Kharagpur); Partha Pratim Das (Ashoka University, Sonipat)"
+  },
+  {
+    "paperId": 164,
+    "paperTitle": "SPIKECODE: Spiking Autoencoder Framework for Lossy Image Compression on Constrained Low-Power Edge Devices",
+    "abstract": "We introduce SPIKECODE, a novel Spiking Autoencoder-based lossy image compression framework tailored for neuromorphic computing environments. It achieves a compression ratio of up to 91.5% with significantly reduced power consumption.",
+    "primaryContactAuthorName": "Ajoy Dey",
+    "primaryContactAuthorEmail": "d.ajoy@tcs.com",
+    "authors": "Sayan Kahali (Tata Consultancy Services Limited); Ajoy Dey (Tata Consultancy Services Limited)*; Aalekhya Mukhopadhyay (Tata Consultancy Services Limited); Soumik Dey (Tata Consultancy Services Limited)"
+  },
+  {
+    "paperId": 165,
+    "paperTitle": "Rethinking Detection Heads: Enhancing YOLO for Drone Image Object Detection",
+    "abstract": "We introduce an additional ultra-small object detection head into the YOLOv11 architecture and remove the large-object detection head for drone imagery. Our approach attains a mean Average Precision (mAP) of 40.02% on the VisDrone benchmark.",
+    "primaryContactAuthorName": "Anuneet Chhabra",
+    "primaryContactAuthorEmail": "anuneet0409@gmail.com",
+    "authors": "Rutvik Patel (Indian Institute of Technology Delhi); Anuneet Chhabra (Indian Institute of Technology Delhi)*; Ankita Raj (Indian Institute of Technology Delhi); Chetan Arora (Indian Institute of Technology Delhi)"
+  },
+  {
+    "paperId": 166,
+    "paperTitle": "Adaptive Binary Wallpaper Abstraction for Power-Conscious Always-On Displays",
+    "abstract": "We propose a novel binary abstraction approach to dynamically fine-tune the level of detail retained in an Always-on Display (AoD) image. We introduce a new Power-Adaptive Weighted Otsu algorithm. Our approach can save 20.7% of energy on average.",
+    "primaryContactAuthorName": "Harichandana B S S",
+    "primaryContactAuthorEmail": "hari.ss@samsung.com",
+    "authors": "Harichandana B S S (Samsung R&D, Bangalore)*; Sumit Kumar (Samsung R&D Institute Bangalore); Deepak Chaurasia (Samsung R&D Institute Bangalore)"
+  },
+  {
+    "paperId": 169,
+    "paperTitle": "A Unified model for the Adverse Weather Removal using Squeeze-and-Excitation Attention",
+    "abstract": "We propose a framework to integrate Squeeze-and-Excitation (SE) module into a Cycle-GAN-based architecture trained with contrastive loss for adverse weather removal. The method achieves robust image restoration under a wide range of adverse environmental conditions.",
+    "primaryContactAuthorName": "Snehasis Mukherjee",
+    "primaryContactAuthorEmail": "snehasis.mukherjee@snu.edu.in",
+    "authors": "Arun Basu (Shiv Nadar Institute of Eminence, Delhi NCR); Kotha Kartheek (Shiv Nadar Institute of Eminence, Delhi NCR); Lingammaneni Ganesh Choudary (Shiv Nadar Institute of Eminence, Delhi NCR); Snehasis Mukherjee (Shiv Nadar Institute of Eminence, Greater Noida, India)*"
+  },
+  {
+    "paperId": 170,
+    "paperTitle": "Towards Structured Multimodal Understanding: Scientific Diagram Captioning with Modern VLMs",
+    "abstract": "We introduce a novel benchmark for understanding scientific diagrams with VLMs. We leverage an enhanced version of the AI2D-Caption dataset. Experimental results show that InternVL2.5 achieves the highest scores across most automated metrics.",
+    "primaryContactAuthorName": "Deepika Kamboj",
+    "primaryContactAuthorEmail": "kamboj.5@iitj.ac.in",
+    "authors": "Deepika Kamboj (IIT Jodhpur)*; Gaurav Harit (IIT Jodhpur)"
+  },
+  {
+    "paperId": 171,
+    "paperTitle": "CP-SIS: Learnable Class Prototypes for Efficient Surgical Instrument Segmentation",
+    "abstract": "We address challenges in Surgical Instrument Segmentation (SIS) with CP-SIS, a novel Learnable Class Prototype Queries framework with Low-Rank Adaptation (LoRA). We report a mean class IoU (mcIoU) of 62.93% on Endovis 2017 dataset.",
+    "primaryContactAuthorName": "Kunal Dargan",
+    "primaryContactAuthorEmail": "kunal.dargan@cse.iitd.ac.in",
+    "authors": "Kunal Dargan (Indian Institute of Technology Delhi)*; Nikhil Kumar Jangamreddy (Indian Institute of Technology Delhi); Chetan Arora (Indian Institute of Technology Delhi)"
+  },
+  {
     "paperId": 173,
     "paperTitle": "Contextual Memory Recall: A Novel Metric for Class Incremental Learning",
     "abstract": "We propose Contextual Memory Recall (CMR), which evaluates how well a CIL model recalls previously learned classes when given relevant past cues. CMR offers newer insights into continual aspects of a CIL model.",
     "primaryContactAuthorName": "Ravi Mukkamala",
     "primaryContactAuthorEmail": "",
     "authors": "Ravi Mukkamala (Old Dominion University)*"
+  },
+  {
+    "paperId": 174,
+    "paperTitle": "Equitable Dermatology: Adversarial and Spectral Techniques for Fair Skin Lesion Classification",
+    "abstract": "We propose a unified framework that combines adversarial debiasing via a Gradient Reversal Layer to remove skin-tone information from feature representations and an Elastic Representation (ElReg) regularizer to learn robust, disentangled lesion features. Our approach achieves significant improvement in overall accuracy and worst-group accuracy.",
+    "primaryContactAuthorName": "Rajeev Dwivedi",
+    "primaryContactAuthorEmail": "rajeevias95@gmail.com",
+    "authors": "Rajeev Dwivedi (Indian Institute of Science Education and Research Bhopal)*; Mohammedkalif Rafiq Kalagond (Indian Institute of Science Education and Research Bhopal); Monika Sharma (TCS Research); Amit Sangroya (TCS Research)"
   },
   {
     "paperId": 176,
@@ -176,12 +408,52 @@
     "authors": "Meghana Shankar (Samsung); Akanxit Upadhyay (Samsung); Anmol Namdev (Samsung); Green Rosh KS (Samsung); Pawan Prasad BH (Samsung)"
   },
   {
+    "paperId": 178,
+    "paperTitle": "Zero-Shot Autism Behaviour Recognition Leveraging Multimodal Representations and Cross-Dataset Evaluation",
+    "abstract": "We propose a novel zero-shot multimodal framework for early ASD behavior recognition by leveraging Large Vision-Language Models (LVLMs). Our approach extracts visual features from 30-frame clips and fuses them with instruction-based semantic features.",
+    "primaryContactAuthorName": "Ravi Mukkamala",
+    "primaryContactAuthorEmail": "mukka@cs.odu.edu",
+    "authors": "Darshan Gera (SSSIHL); Vignesh Sai Sankalp Sham (SSSIHL); Ritu Raj Pradhan (SSSIHL); Bala Subramanian (SSSIHL); Ravi Mukkamala (Old Dominion University)*; Sreepada V Satya N Sarma (SSSIHL)"
+  },
+  {
+    "paperId": 179,
+    "paperTitle": "B2R2Net: Robust and Lightweight Bounding Box Refining & Refactoring Network for Geometry-Agnostic Screenshots",
+    "abstract": "We propose B2R2Net (Bounding box refining & refactoring Network) which refines the rectangular image bounding box by implementing a segmentation based method to effectively predict the accurate image boundary for geometry-agnostic screenshots.",
+    "primaryContactAuthorName": "Udayraj Mangal",
+    "primaryContactAuthorEmail": "u.mangal@samsung.com",
+    "authors": "Udayraj Mangal (Samsung R & D Institute Bangalore)*; Anchal Pandey (Samsung R & D Institute Bangalore)"
+  },
+  {
+    "paperId": 180,
+    "paperTitle": "Context-qsmnet: Enhancing Generalization in Quantitative Susceptibility Mapping with Context-Aware Deep Neural Networks",
+    "abstract": "We propose Context-QSMnet, a novel 3D U-Net-based architecture that integrates contextual learning via pairwise convolutional averaging blocks. Context-QSMnet achieves statistically significant improvements in terms of structural similarity index measure (SSIM).",
+    "primaryContactAuthorName": "Navchetan Awasthi",
+    "primaryContactAuthorEmail": "n.awasthi@uva.nl",
+    "authors": "Thomas Apotheker (University of Amsterdam); Siraj T M (IISER TVM); Raji Susan Mathew (IISER TVM); Navchetan Awasthi (University of Amsterdam)*"
+  },
+  {
     "paperId": 182,
     "paperTitle": "Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications",
     "abstract": "We explore whether MLLMs can support Assistive AI by evaluating state-of-the-art models on real-world tasks: recognizing everyday objects like currency, answering questions based on scene text, and reading visually presented content across multiple languages.",
     "primaryContactAuthorName": "Avijit Dasgupta",
     "primaryContactAuthorEmail": "",
     "authors": "Shayon Dasgupta (IIT (BHU) Varanasi); Avijit Dasgupta (IIIT Hyderabad)*; Jawahar C. V. (IIIT Hyderabad)"
+  },
+  {
+    "paperId": 183,
+    "paperTitle": "Towards Scalable Sign Production: Leveraging Co-Articulated Gloss Dictionary for Fluid Sign Synthesis",
+    "abstract": "We propose an interpolation-based approach that stitches together individual signs using modern text-to-motion frameworks like FrameTrack. This produces contextually accurate and grammatically consistent sign sequences while retaining fine-grained articulation.",
+    "primaryContactAuthorName": "Aparna Agrawal",
+    "primaryContactAuthorEmail": "sanagrawal0401@gmail.com",
+    "authors": "Aparna Agrawal (IIITH)*; Seshadri Mazumder (IIITH); Vinay Namboodiri (IIITH); C V Jawahar (IIITH)"
+  },
+  {
+    "paperId": 186,
+    "paperTitle": "AQIFormer: A Transformer-Based Multi-View Architecture for Cross-City Air Quality Classification",
+    "abstract": "We present AQIFormer, a novel transformer-based encoder architecture that addresses fundamental limitations in image-based air quality estimation through innovative dual-view integration, weather-aware attention mechanisms, and comprehensive multi-task learning. AQIFormer achieves 89.98% accuracy.",
+    "primaryContactAuthorName": "Om Kathalkar",
+    "primaryContactAuthorEmail": "om.kathalkar@research.iiit.ac.in",
+    "authors": "Om Kathalkar (IIIT Hyderabad)*; Nitin Nilesh (IIIT Hyderabad); Sachin Chaudhari (IIIT Hyderabad); Anoop Namboodiri (IIIT Hyderabad)"
   },
   {
     "paperId": 192,
@@ -192,12 +464,44 @@
     "authors": "Aryan Naveen (National Institute of Technology Karnataka, Surathkal)*; Gopika Gopan K (Wadhwani AI); Neelam Sinha (Centre for Brain Research, Indian Institute of Science, Bengaluru)"
   },
   {
+    "paperId": 196,
+    "paperTitle": "T2M-CycleGAN: A Knowledge-Distilled CycleGAN Framework for High-Fidelity 3T-to-7T MRI Translation",
+    "abstract": "This paper introduces Transformer-to-Mamba CycleGAN (T2M-CycleGAN) Knowledge Distillation (KD) framework for generating high-resolution 7T-like MRI from 3T scans using unpaired data. Experimental results show that the distilled student closely matches the teacher's PSNR and SSIM performance.",
+    "primaryContactAuthorName": "Franklin Buragohain",
+    "primaryContactAuthorEmail": "franklin.buragohain@iitg.ac.in",
+    "authors": "Franklin Buragohain (Indian Institute of Information Technology, Guwahati)*; Shovan Barma (Indian Institute of Information Technology Guwahati)"
+  },
+  {
+    "paperId": 197,
+    "paperTitle": "Personalized Federated Autoencoders: Unsupervised Representation Learning at the Edge",
+    "abstract": "We propose a novel framework, Personalized Unsupervised Federated AutoEncoders (pFedAE), for obtaining globally rich and locally relevant feature representations at the clients. pFedAE outperforms state-of-the-art baselines.",
+    "primaryContactAuthorName": "Nazreen Shah",
+    "primaryContactAuthorEmail": "nazreens@iiitd.ac.in",
+    "authors": "Kanika Arora (LightMetrics Technologies Pvt. Ltd.); Nazreen Shah (Indraprastha Institute of Information Technology, Delhi)*; Ashish Sethi (LightMetrics Technologies Pvt. Ltd.); Ranjitha Prasad (Indraprastha Institute of Information Technology, Delhi); Mithun Uliyar (LightMetrics Technologies Pvt. Ltd.); Krishna AG (LightMetrics Technologies Pvt Ltd.)"
+  },
+  {
+    "paperId": 207,
+    "paperTitle": "Strongly Connected Components Are All You Need: Graph-Theoretic Interpretability and Optimization for Vision Transformers",
+    "abstract": "We introduce a novel, comprehensive graph-theoretic framework for analyzing Vision Transformer attention mechanisms. Our approach treats attention matrices as directed graphs and applies Tarjan's Strongly Connected Components algorithm. Layers containing minimal meaningful connectivity can be selectively ablated.",
+    "primaryContactAuthorName": "Devansh Garg",
+    "primaryContactAuthorEmail": "devanshg.iitm@gmail.com",
+    "authors": "Devansh Garg (Indian Institute of Technology Mandi)*"
+  },
+  {
     "paperId": 209,
     "paperTitle": "Mesh Object Retrieval using Self-Supervised Mesh Convolution",
     "abstract": "We address the fundamental limitation of sensitivity to mesh triangle ordering by leveraging mesh convolutions for robust, efficient retrieval. Our method achieves permutation and rotation invariance with 200x fewer parameters.",
     "primaryContactAuthorName": "Kajal Sanklecha",
     "primaryContactAuthorEmail": "",
     "authors": "Kajal Sanklecha (International Institute of Information Technology, Hyderabad); Siddharth Mangipudi (International Institute of Information Technology, Hyderabad); Prayushi Mathur (International Institute of Information Technology, Hyderabad); P. J. Narayanan (International Institute of Information Technology, Hyderabad)"
+  },
+  {
+    "paperId": 219,
+    "paperTitle": "MDFN: Efficient Image Super-Resolution through Multi-Domain Feature Fusion",
+    "abstract": "We propose MDFN (Multi-Domain Feature Network), a novel efficient network that achieves high performance while maintaining a low parameter count for single image super-resolution. MDFN achieves competitive performance across all datasets.",
+    "primaryContactAuthorName": "Gowthamaun Palani",
+    "primaryContactAuthorEmail": "ed23s037@smail.iitm.ac.in",
+    "authors": "Gowthamaun Palani (Indian Institute of Technology Madras)*; Ganapathy Krishnamurthi (Indian Institute of Technology Madras)"
   },
   {
     "paperId": 223,
@@ -216,51 +520,339 @@
     "authors": "Suruchi Kumari (Indian Institute of Technology Roorkee)*; Aryan Das (School Of Computer Science Engineering, Vellore Institute of Technology, Bhopal); Swalpa Kumar Roy (Alipurduar Government Engineering and Management College); Indu Joshi (Indian Institute of Technology Mandi); Pravendra Singh (Indian Institute of Technology Roorkee)"
   },
   {
+    "paperId": 228,
+    "paperTitle": "Writer Identification from Multilingual Handwritten Indic Text Document Images",
+    "abstract": "In this paper, we introduce a multilingual handwritten Indic dataset, named IIEST-Indic-HW. We also propose a writer identification system based on vision transformer. The method achieves top-1 accuracies of 98.85% on the IIEST-Indic-HW dataset.",
+    "primaryContactAuthorName": "Samit Biswas",
+    "primaryContactAuthorEmail": "samit@cs.iiests.ac.in",
+    "authors": "Namrata Das (Indian Institute of Engineering Science and Technology, Shibpur); Samit Biswas (Indian Institute of Engineering Science and Technology, Shibpur)*"
+  },
+  {
     "paperId": 230,
     "paperTitle": "A Fast Lossless Compression Algorithm for Color Filter Arrays",
-    "abstract": "We present a novel lossless compression algorithm for CFA applicable to any type and resolution. The proposed algorithm can compress a single image frame to around two times on average and is suitable for real-time applications.",
+    "abstract": "We present a novel lossless compression and decompression algorithm for CFA applicable to any type and resolution. The proposed algorithm is more efficient in terms of execution time and compression ratio compared to the state-of-the-art methods.",
     "primaryContactAuthorName": "Chiranjeev Bhaya",
-    "primaryContactAuthorEmail": "",
+    "primaryContactAuthorEmail": "cbhaya@gmail.com",
     "authors": "Chiranjeev Bhaya (Samsung R&D, Bangalore; IIT ISM Dhanbad)*; Mithil Shail (Samsung R&D, Bangalore); Chandra Mohan Velpula (Samsung R&D, Bangalore); Sarbojit Ganguly (Samsung R&D, Bangalore); Praveen Bangre Prabhakar Rao (Samsung R&D, Bangalore)"
   },
   {
     "paperId": 232,
     "paperTitle": "Behavioral Evaluation of Prospect-Theoretic Instance-Based Learning: Modeling Risk and Alternation in Experience-Based Decisions",
-    "abstract": "We propose Prospect Theoretic Instance-Based Learning (PT-IBL), a cognitive hybrid model that marries PT's value function with IBLT's memory-based computation of utility. We evaluate PT-IBL on the Technion Prediction Tournament set.",
+    "abstract": "We propose Prospect Theoretic Instance-Based Learning (PT-IBL), a cognitive hybrid model that marries PT's value function with IBLT's memory-based computation of utility. PT-IBL captures both decision accuracy and behavioral patterns in a flexible way.",
     "primaryContactAuthorName": "Varun Dutt",
-    "primaryContactAuthorEmail": "",
+    "primaryContactAuthorEmail": "varun@iitmandi.ac.in",
     "authors": "Devansh Shrestha (IIT Mandi); Varun Dutt (IIT Mandi)*"
+  },
+  {
+    "paperId": 233,
+    "paperTitle": "Chaff-Free Fuzzy Vault using Multimodal Biometrics for Secure Key Access",
+    "abstract": "We propose a secure and computationally efficient fuzzy vault scheme that does not utilize chaff points and is resilient against correlation-based attacks. The proposed scheme facilitates an alignment-free combination of multi-model biometric data.",
+    "primaryContactAuthorName": "Kashish Jain",
+    "primaryContactAuthorEmail": "kashishjain.0803@gmail.com",
+    "authors": "Kashish Jain (IIT, Delhi, India)*; NARAYAN MISHRA (IIT, Delhi, India); Vireshwar Kumar (IIT, Delhi, India); Ashok Kumar Bhateja (IIT, Delhi, India)"
+  },
+  {
+    "paperId": 236,
+    "paperTitle": "Can Unsupervised Segmentation Reduce Annotation Costs for Video Semantic Segmentation?",
+    "abstract": "We investigate approaches to reduce the annotation cost required for video segmentation datasets by utilizing unannotated frames and coarse annotations. Our investigation suggests that we can reduce the need for annotation by a third with similar performance for video semantic segmentation.",
+    "primaryContactAuthorName": "Samik Some",
+    "primaryContactAuthorEmail": "samiks@iiitk.ac.in",
+    "authors": "Samik Some (IIT Kanpur)*; Namboodiri (University of Bath)"
+  },
+  {
+    "paperId": 237,
+    "paperTitle": "UNet-Mamba Fusion for Automated Glaucoma Screening via Cup-to-Disc Ratio Estimation",
+    "abstract": "We propose a fusion framework that integrates the proven UNet architecture with our novel OptoMamba blocks. This integration addresses the contrast and noise challenges by enhancing the model capacity to distinguish subtle boundary features of the optic disc and cup.",
+    "primaryContactAuthorName": "Devika R G",
+    "primaryContactAuthorEmail": "d-tve20jan020@cet.ac.in",
+    "authors": "Devika R G (CET)*; Sivakumar R (Government Engineering College, Bartonhill, Trivandrum); Linu Shine (College of Engineering, Trivandrum); Jiji C V (Shiv Nadar University Chennai)"
+  },
+  {
+    "paperId": 238,
+    "paperTitle": "IDANet: Identity-Driven Attention Network for Unsupervised Synthetic Noise Removal",
+    "abstract": "This paper introduces IDANet, an identity-driven attention network developed for unsupervised synthetic noise removal. The proposed architecture integrates two complementary feature extraction branches: the Adaptive Contextual Residual Unit (ACRU) and the Multi-Scale Dilated Fusion Unit (MDFU).",
+    "primaryContactAuthorName": "Akhilaraj D",
+    "primaryContactAuthorEmail": "akhilaraj@cet.ac.in",
+    "authors": "Akhilaraj D (College of Engineering Trivandrum)*; Joseph Zacharias (College of Engineering Trivandrum)"
+  },
+  {
+    "paperId": 240,
+    "paperTitle": "Lightweight Models for Classification and Detection via Knowledge Distillation and Distance Correlation",
+    "abstract": "We introduce Distance Correlation (DC) as an additional distillation loss to get around issues in Knowledge Distillation. Across settings, combining KL divergence with DC consistently improves results up to a +5.8% boost in classification accuracy and +1.4% mAP in detection.",
+    "primaryContactAuthorName": "Ojaswini Sharma",
+    "primaryContactAuthorEmail": "ojaswini24063@iiitd.ac.in",
+    "authors": "Sumesh Prasad (IIIT Delhi); Ojaswini Sharma (IIIT Delhi)*; Saket Anand (IIIT Delhi)"
+  },
+  {
+    "paperId": 245,
+    "paperTitle": "What is there in an Indian Thali?",
+    "abstract": "We present Food Scanner, a novel, training-free, end-to-end pipeline for automated nutrition estimation of multi-dish meals from a single image. We compile two datasets: a multi-view Indian Thali dataset and a weight estimation dataset.",
+    "primaryContactAuthorName": "Yash Arora",
+    "primaryContactAuthorEmail": "yasharora102@gmail.com",
+    "authors": "Yash Arora (IIIT Hyderabad)*; Aditya Arun (IIIT Hyderabad); C V Jawahar (IIIT Hyderabad)"
+  },
+  {
+    "paperId": 258,
+    "paperTitle": "Pooling Diverse Voices: Logarithmic Binary Fusion for Server-Side Pseudo-Labeling in Federated Learning",
+    "abstract": "We propose a framework called Logarithmic Fusion for Binary Classifiers (LFBC), which decomposes any K-way classification task into K one-vs-rest binary sub-tasks on each client. Results show that LGM and MLO outperform the commonly used FL ensembling technique.",
+    "primaryContactAuthorName": "Aditi Patil",
+    "primaryContactAuthorEmail": "cs21d001@iittp.ac.in",
+    "authors": "Aditi Patil (Indian Institute of Technology)*; Kalidas Yeturu (Indian Institute of Technology)"
   },
   {
     "paperId": 259,
     "paperTitle": "How Does India Cook Biryani?",
-    "abstract": "An analysis of cooking patterns and recipes for Biryani across different regions of India using computer vision and multimodal learning approaches.",
+    "abstract": "We present the first large-scale, curated dataset of biryani preparation videos, comprising 120 high-quality YouTube recordings. We propose a multi-stage framework leveraging recent advances in vision–language models (VLMs) to segment videos into fine-grained procedural units.",
     "primaryContactAuthorName": "Shubham Goel",
-    "primaryContactAuthorEmail": "",
+    "primaryContactAuthorEmail": "shubham.goel@students.iiit.ac.in",
     "authors": "Farzana S (IIIT Hyderabad); CV Rishi (IIIT Hyderabad); Shubham Goel (IIIT Hyderabad)*; Aditya Arun (IIIT Hyderabad); CV Jawahar (IIIT Hyderabad)"
+  },
+  {
+    "paperId": 262,
+    "paperTitle": "Low SNR Speech Perception with HuBERT: A Discussion on Visual-Audio Fusion and Domain-Specific Modeling",
+    "abstract": "We investigate the relative contribution of lip motion compared to robust pre-trained features like HuBERT across varying SNR levels. Our findings offer insights into designing efficient and adaptable AVSE systems for practical deployment.",
+    "primaryContactAuthorName": "Jayasree Saha",
+    "primaryContactAuthorEmail": "jayasree.saha.edu@gmail.com",
+    "authors": "Jayasree Saha (IIIT-Hyderabad)*; Vinay Namboodiri (University of Bath); C. V Jawahar (IIIT Hyderabad)"
+  },
+  {
+    "paperId": 267,
+    "paperTitle": "The Green Mile: A Multi-Layered Quest to Reveal, Measure, and Slash Carbon Emissions in AI Training & Inference",
+    "abstract": "In this paper the authors try to draw attention on the impact of Machine Learning model performance and inference on the climate. We took different models and evaluated their RMSE score and Carbon emission score during training.",
+    "primaryContactAuthorName": "Subramanyam Sahoo",
+    "primaryContactAuthorEmail": "sahoosubramanyam@gmail.com",
+    "authors": "Subramanyam Sahoo (NIT Hamirpur)*"
+  },
+  {
+    "paperId": 273,
+    "paperTitle": "Enhancing Driving Visibility via Semantic-Guided Knowledge Distillation Framework for Adverse Weather Removal",
+    "abstract": "We propose a unified, semantic-guided knowledge distillation restoration framework that addresses multi-weather removal while preserving semantics. Extensive experiments show competitive or superior performance to state-of-the-art methods.",
+    "primaryContactAuthorName": "Hanvitha Saraswathi Mukkamala",
+    "primaryContactAuthorEmail": "hanvitha.mukkamala@gmail.com",
+    "authors": "Hanvitha Saraswathi Mukkamala (International Institute of Information Technology - Hyderabad)*; Shankar Gangisetty (International Institute of Information Technology - Hyderabad); Anurag Kulkarni (International Institute of Information Technology - Hyderabad); Veera Ganesh Yalla (International Institute of Information Technology - Hyderabad); C V Jawahar (International Institute of Information Technology - Hyderabad)"
+  },
+  {
+    "paperId": 274,
+    "paperTitle": "Quantformers: Bits to Qubits",
+    "abstract": "This research presents a novel method utilizing quantum circuits for image classification, a task traditionally handled by classical patchwise vision transformers. The results demonstrate that Quantum Transformers are not only competitive but, in some cases, surpass the best classical transformers.",
+    "primaryContactAuthorName": "Sanjay Bhargav Dharavath",
+    "primaryContactAuthorEmail": "sanjaytinku810@gmail.com",
+    "authors": "Sanjay Bhargav Dharavath (International Institute of Information Technology - Hyderabad)*; Hanvitha Saraswathi Mukkamala (International Institute of Information Technology - Hyderabad)"
+  },
+  {
+    "paperId": 277,
+    "paperTitle": "Theoretical Perspective on Histogram Binning with Extension to Multi-label Medical Image Classification",
+    "abstract": "We provide a novel geometrical perspective of Histogram Binning (HB) and adapt it as a post-hoc calibration technique for multi-label classification. Our results demonstrate that the proposed method significantly improves calibration quality across several benchmarks.",
+    "primaryContactAuthorName": "Aditya Pal",
+    "primaryContactAuthorEmail": "adityashankarpal_r@isical.ac.in",
+    "authors": "Arkapal Panda (Indian Statistical Institute); Aditya Pal (Indian Statistical Institute)*; Utpal Garain (Indian Statistical Institute)"
+  },
+  {
+    "paperId": 284,
+    "paperTitle": "Spatial-Aware Hierarchical Graph Networks for Volumetric Medical Image Segmentation",
+    "abstract": "We propose SAGNN, which combines a Graph-based Neural Network (GNN) with Anisotropic weights and a modified SwinUNet. SAGNN outperforms existing models with an increase of 3.5% in Dice score.",
+    "primaryContactAuthorName": "Chithra PL",
+    "primaryContactAuthorEmail": "dhitrasp2001@yahoo.com",
+    "authors": "Dhivya S D (University Of Madras); Chithra PL (University of Madras)*"
+  },
+  {
+    "paperId": 286,
+    "paperTitle": "DIMMR : Multi-modal Interactive 3D Scene Composition in XR",
+    "abstract": "This paper introduces a novel mixed-reality (MR) 3D authoring platform designed to enable real-time, interactive composition of 3D scenes. The platform facilitates precise retrieval of objects matching both the category and rough shape of a user drawn 3D sketch.",
+    "primaryContactAuthorName": "Lokender Tiwari",
+    "primaryContactAuthorEmail": "tiwari.lokender@gmail.com",
+    "authors": "Raghav Mittal (TCS Research); Lokender Tiwari (TCS Research)*; Shivam Ashok Shukla (TCS Research); Mritunjoy Halder (TCS Research); Brajeshwar Bhowmick (TCS Research)"
+  },
+  {
+    "paperId": 288,
+    "paperTitle": "Medical Semantic-Aware Image-Text Alignment loss for Medical Visual Question Answering",
+    "abstract": "We propose a Medical semantics-aware image-text alignment loss that allows semantically related image-text pairs to align even if they come from different patients. We achieve a performance gain of 1.77%, 0.95%, and 1% on three publicly available MedVQA datasets respectively.",
+    "primaryContactAuthorName": "Vasudha Joshi",
+    "primaryContactAuthorEmail": "vasudhaj50@gmail.com",
+    "authors": "Vasudha Joshi (Indian Institute of Technology Kharagpur)*; Adrsh Adhikari (Indian Institute of Technology Kharagpur); Pabitra Mitra (Indian Institute of Technology Kharagpur); Supratik Bose (Varian Medical Systems)"
+  },
+  {
+    "paperId": 290,
+    "paperTitle": "SemiHatkshar: Generalizable Indic Handwritten OCR through Semi-Supervised Learning",
+    "abstract": "We propose a semi-supervised approach, SemiHatkshar, that leverages large-scale unlabeled word-level images collected from diverse sources. Our method demonstrates that combining a small amount of labeled data with a large unlabeled corpus leads to more robust HTR models for Indic scripts.",
+    "primaryContactAuthorName": "Evani Lalitha",
+    "primaryContactAuthorEmail": "lalitha.e@research.iiit.ac.in",
+    "authors": "Evani Lalitha (International Institute of Information Technology, Hyderabad)*; Ajoy Mondal (International Institute of Information Technology, Hyderabad); Janahar (International Institute of Information Technology, Hyderabad); C V Jawahar (International Institute of Information Technology, Hyderabad)"
+  },
+  {
+    "paperId": 294,
+    "paperTitle": "Self-Supervised Learning for Annotation-Efficient Endoscopic Instrument Segmentation",
+    "abstract": "This study explores the use of Self-Supervised Learning (SSL) methods namely, Simple Contrastive Learning of Representations (SimCLR) and Momentum Contrast (MoCo) as pretraining strategies. Findings demonstrate that SSL-pretrained models can closely match the performance of fully supervised models.",
+    "primaryContactAuthorName": "Harinandan Shukla",
+    "primaryContactAuthorEmail": "harinandan.himanshus@gmail.com",
+    "authors": "Harinandan Shukla (IITM Kancheepuram)*; Prankur Shukla (IITM Kancheepuram); Umarani Jayaraman (IITDM Kancheepuram)"
   },
   {
     "paperId": 303,
     "paperTitle": "Improving Video Question Answering through query-based frame selection",
-    "abstract": "We propose a query-based frame selection method for improving video question answering by selecting the most relevant frames based on the question query.",
+    "abstract": "We present a novel query-based selection of frames relevant to the question based on the submessage mutual Information (SMI) functions. An accuracy improvement of up to 4% was observed when using query-based frame selection over uniform sampling.",
     "primaryContactAuthorName": "Himanshu Patil",
-    "primaryContactAuthorEmail": "",
+    "primaryContactAuthorEmail": "himanshupatil820@gmail.com",
     "authors": "Himanshu Patil (Indian Institute of Technology Bombay)*; Geo Jolly (Indian Institute of Technology Bombay); Ramana Raja Buddala (Indian Institute of Technology Bombay); Ganesh Ramakrishnan (Indian Institute of Technology Bombay)"
+  },
+  {
+    "paperId": 307,
+    "paperTitle": "Milk or mimic? MilkNet: Spectral-Spatial Fusion Net for Brand Authentication in Commercial Hyperspectral Imaging",
+    "abstract": "We implemented MilkNet-SSF, a dual-arm Spectral and Spatial Fusion Network architecture for milk authentication. The proposed method demonstrated significant potential for rapid, non-invasive food quality monitoring and brand authentication.",
+    "primaryContactAuthorName": "Padmasri P",
+    "primaryContactAuthorEmail": "padmasrip@student.tce.edu",
+    "authors": "Padmasri P (Thiagarajar College of Engineering)*; Sathya Bama B (Thiagarajar College of Engineering); Mohamed Mansoor Roomi S (Thiagarajar College of Engineering)"
+  },
+  {
+    "paperId": 310,
+    "paperTitle": "HGRLiteNet: A Lightweight Hand Gesture Recognition Network",
+    "abstract": "This paper deals with identifying gestures using a modified MobileViT algorithm for the HaGRID dataset named as HGRLiteNet. The algorithm can identify gestures with an accuracy of 91.54% for the HaGRID dataset.",
+    "primaryContactAuthorName": "Anju J S",
+    "primaryContactAuthorEmail": "anjujs@cet.ac.in",
+    "authors": "Anju J S (College of Engineering Trivandrum)*; AP Abdul Kalam (Technological University)*; Pradeep Inushine (College of Engineering Trivandrum); Linu Shine (College of Engineering Trivandrum); Sreenl K G (Rajiv Gandhi Institute of Technology)"
+  },
+  {
+    "paperId": 314,
+    "paperTitle": "On the Transferability of LaBraM: Evaluating Representations across Visual and Clinical Domains with Convolutional Adapters",
+    "abstract": "We systematically evaluate the downstream utility of LaBraM across two distinct EEG domains: visual perception and clinical diagnosis. The proposed approach achieves state-of-the-art performance, with 99.32% accuracy on EEG-ImageNet and 92.31% subject-level accuracy on BrainLat.",
+    "primaryContactAuthorName": "Pushpadeep Singh",
+    "primaryContactAuthorEmail": "erpd2201@students.iitmandi.ac.in",
+    "authors": "Pushpadeep Singh (Indian Institute of technology, Mandi)*; Jyoti Nigam (Indian Institute of technology, Mandi); Mekebhna Vanns Krishna (Skvris RE GBS India Pvt. Ltd.); Arnav Bhavsar (Indian Institute of technology, Mandi); Aditya Nigam (Indian Institute of technology, Mandi)"
+  },
+  {
+    "paperId": 318,
+    "paperTitle": "Globally Optimal Vision-Language Alignment via Entropic Convex Transport",
+    "abstract": "We propose a post-processing framework that reformulates image-caption alignment as an entropically regularized convex Optimal Transport (OT) problem. Experiments on a synthetic benchmark and the Flickr8k dataset show that our approach improves retrieval fairness and yields competitive or superior top-k accuracy.",
+    "primaryContactAuthorName": "Vishwanath Bijalwan",
+    "primaryContactAuthorEmail": "vishwanath.bijalwan@gmail.com",
+    "authors": "Satyan Mishra (Vietnam National University); Vishwanath Bijalwan (Amity University Punjab, India)*; Vi Phung (Vietnam National University); Shivam Mishra (Vietnam National University); Rajni Mohana (Amity University Punjab)"
+  },
+  {
+    "paperId": 320,
+    "paperTitle": "AMRTNet: Adaptive Multi-Scale Retinex Transformer with Frequency Domain Processing for Low-Light Image Enhancement",
+    "abstract": "This paper introduces AMRTNet, an Adaptive Multi-Scale Retinex Transformer that unifies Retinex-based image decomposition, transformer attention, and wavelet-domain frequency processing into a single architecture. AMRTNet achieves state-of-the-art performance, delivering superior PSNR and SSIM scores.",
+    "primaryContactAuthorName": "Keshav Marian",
+    "primaryContactAuthorEmail": "keshavmarian12@gmail.com",
+    "authors": "Keshav Marian (Shiv Nadar University Chennai)*"
+  },
+  {
+    "paperId": 325,
+    "paperTitle": "TransUNet-Recon: A Transformer-Augmented UNet Architecture for Accelerated MRI Reconstruction",
+    "abstract": "We propose TransUNet-Recon, an adaptation of Transformer-augmented UNet architectures for multicoil MRI reconstruction in the image domain. Our final model demonstrates consistent improvements in PSNR and SSIM over the baseline.",
+    "primaryContactAuthorName": "Susant Kumar Panigrahi",
+    "primaryContactAuthorEmail": "susant148@gmail.com",
+    "authors": "Susant Kumar Panigrahi (Indian Institute of Technology Kharagpur)*; S Subochini Pal (Indian Institute of Technology Kharagpur); Pradiptia Samwel (Indian Institute of Technology Kharagpur); Debdoot Sheet (Indian Institute of Technology Kharagpur)"
+  },
+  {
+    "paperId": 332,
+    "paperTitle": "RMA-Net: Residual Multiscale Attention CNN for Hyperspectral Brain Tissue Classification",
+    "abstract": "We propose a novel Residual Multiscale Attention Network (RMA-Net). RMA-Net achieved an overall accuracy of 96.65% and a mean Kappa score of 99.80%, outperforming seven state-of-the-art deep learning models.",
+    "primaryContactAuthorName": "Raj Singh",
+    "primaryContactAuthorEmail": "21pcs003@lnmiit.ac.in",
+    "authors": "Raj Singh (The LNM Institute of Information Technology, Jaipur); Aloke Datta (The LNM Institute of Information Technology, Jaipur)*"
+  },
+  {
+    "paperId": 336,
+    "paperTitle": "Knowledge-Based Metaverse for Heritage Crafts",
+    "abstract": "This paper presents an interactive and knowledge-driven metaverse designed to promote and preserve heritage crafts. We have implemented a KAG-driven 3D virtual guide to enhance learning and user engagement.",
+    "primaryContactAuthorName": "Supreet Kaur",
+    "primaryContactAuthorEmail": "kaur8@iiitj.ac.in",
+    "authors": "Supreet Kaur (Indian Institute of Technology, Jodhpur)*; Ajay Parakh (IIIT Hyderabad); Vishakha Pareek (IIIT Hyderabad); Vaishnavi Pareek (IIIT Hyderabad); Rajendra Nagar (Indian Institute of Technology, Jodhpur); Santanu Chaudhury (Indian Institute of Technology, Delhi)"
+  },
+  {
+    "paperId": 337,
+    "paperTitle": "Retrieval Augmented Continuous Person Tracking and Re-Identification",
+    "abstract": "We propose RAMOT (Retrieval Augmented Multi-Object Tracking), a robust and scalable hybrid system for real-time person re-identification and multi-object tracking (MOT). Extensive experiments demonstrate that our system achieves a strong balance between inference speed, identity accuracy, and scalability.",
+    "primaryContactAuthorName": "Nirbhay Kumar Tagore",
+    "primaryContactAuthorEmail": "nktagore@rgipt.ac.in",
+    "authors": "Madan Sharma (Rajiv Gandhi Institute of Petroleum Technology); Aditya Singh (Rajiv Gandhi Institute of Petroleum Technology); Ashank Kumar (Rajiv Gandhi Institute of Petroleum Technology); Nirbhay Kumar Tagore (Rajiv Gandhi Institute of Petroleum Technology)*; Sachin Kumar (Rajiv Gandhi Institute of Petroleum Technology)"
+  },
+  {
+    "paperId": 338,
+    "paperTitle": "A Lightweight Dual-Stream Framework for Vision-Based Musth Detection in Elephants",
+    "abstract": "This paper presents a vision-first, dual-stream deep learning framework that fuses appearance and motion cues for robust musth classification. The proposed EfficientNetB0-FLATTEN model achieves 88.3% test accuracy while remaining computationally efficient.",
+    "primaryContactAuthorName": "Mohamed Mansoor Roomi Sindha",
+    "primaryContactAuthorEmail": "smmroomi@tce.edu",
+    "authors": "Priya Kampiran (Thiagarajar College of Engineering); Mohamed Mansoor Roomi Sindha (Thiagarajar College of Engineering)*; Mathu Sudhanan (Thiagarajar College of Engineering); Sreenivasan (Thiagarajar College of Engineering); Shaan Sindha M (Thiagarajar College of Engineering)"
   },
   {
     "paperId": 341,
     "paperTitle": "DWT-Mamba: A Spatially-Aware State Space Model for Medical Image Classification",
-    "abstract": "We propose DWT-Mamba, a spatially-aware state space model that combines discrete wavelet transform with Mamba architecture for medical image classification.",
+    "abstract": "This study presents DWT-Mamba, a spatially aware deep learning architecture designed for robust medical image classification through integrating the discrete wavelet transform (DWT) and state-space modelling. Experimental evaluation of five MedMNIST2D datasets demonstrates that the proposed DWT-Mamba technique achieves superior classification accuracy.",
     "primaryContactAuthorName": "Moumita Dholey",
-    "primaryContactAuthorEmail": "",
+    "primaryContactAuthorEmail": "dholey.moumita5@gmail.com",
     "authors": "Moumita Dholey (Indian Institute of Technology Kharagpur)*; Rosina Ahmed (Tata Medical Center Kolkata); Sanjoy Chatterjee (Tata Medical Center Kolkata); Jayanta Mukhopadhyay (Indian Institute of Technology Kharagpur)"
+  },
+  {
+    "paperId": 343,
+    "paperTitle": "UnCageNet: Tracking and Pose Estimation of Caged Animals",
+    "abstract": "We present a novel three-stage preprocessing pipeline that addresses limitations in animal tracking and pose estimation with cage structures. Experimental validation demonstrates that removing cage occlusions through our pipeline enables us to achieve performance levels for pose estimation and tracking comparable to those in environments without occlusions.",
+    "primaryContactAuthorName": "Sayak Dutta",
+    "primaryContactAuthorEmail": "sayak.dutta@iikg.ac.in",
+    "authors": "Sayak Dutta (IIT Gandhinagar)*; Harish Katti (National Institute of Health); Shashikant Verma (IIT Gandhinagar); Shanmuganathan Raman (IIT Gandhinagar)"
   },
   {
     "paperId": 344,
     "paperTitle": "Statistically Validated Hybrid Fusion and Ensemble Feature Selection for Static Sign Language Recognition",
-    "abstract": "We propose a statistically validated hybrid fusion approach with ensemble feature selection for improved static sign language recognition.",
-    "primaryContactAuthorName": "Jayasree Saha",
-    "primaryContactAuthorEmail": "",
-    "authors": "Jayasree Saha (IIIT-Hyderabad)*; Vinay Namboodiri (University of Bath); C. V Jawahar (IIIT Hyderabad)"
+    "abstract": "A static sign-language recognition (SSLR) framework is proposed that integrates handcrafted descriptors together with deep representations. The framework is evaluated on four public datasets—ASLA, Massey, KU-BSL, and ISLA—surpassing existing deep-learning-only baselines.",
+    "primaryContactAuthorName": "Sukanya Das",
+    "primaryContactAuthorEmail": "emailtosukanyadass@gmail.com",
+    "authors": "Sukanya Das (Indian Institute of Technology Kharagpur)*; Debasis Samanta (Indian Institute of Technology Kharagpur); Monalisa Sarma (Indian Institute of Technology Kharagpur)"
+  },
+  {
+    "paperId": 346,
+    "paperTitle": "Weighted Color-Morphology Feature Fusion for Tuberculosis Bacilli Detection from Cytopathology Images",
+    "abstract": "We introduce MorphoChain-Net, a lightweight classification framework. MorphoChain-Net achieved over 97% F1-score, outperforming RGB-based baselines and deeper vision backbones.",
+    "primaryContactAuthorName": "Aparajita Khan",
+    "primaryContactAuthorEmail": "aparajita.cse@iitbhu.ac.in",
+    "authors": "Parshav Kapoor (Indian Institute of Technology Roorkee); Yash Bansal (Indian Institute of Technology Roorkee); Myselfeechawri (Indian Institute of Technology Roorkee); Deeptosh Nyra (All India Institute of Medical Sciences, New Delhi); Sherin Jacob (All India Institute of Medical Sciences, New Delhi); Yashvardhan K. Veer (All India Institute of Medical Sciences, New Delhi); Lavleen Singh (All India Institute of Medical Sciences, New Delhi); Aparajita Khan (Indian Institute of Technology (BHU) Varanasi)*; Partha Pratim Roy (Indian Institute of Technology (ISM) Dhanbad)"
+  },
+  {
+    "paperId": 348,
+    "paperTitle": "A Deep Learning Integrated Stacked Ensemble Framework for Futuristic Landslide Prediction using Multimodal Sensor Data",
+    "abstract": "This study presents a Deep Learning Integrated Stacked Ensemble Learning (DISEL) framework for real-time, multi-class landslide movement prediction. Results show that deep meta-models consistently outperform individual base learners in macro-F1 and PR-AUC.",
+    "primaryContactAuthorName": "Mirothai Chand",
+    "primaryContactAuthorEmail": "mirothaichand@gmail.com",
+    "authors": "Mirothai Chand (Indian Institute of Technology Mandi)*; Varun Dutt (Indian Institute of Technology Mandi); KV Uday (Indian Institute of Technology Mandi)"
+  },
+  {
+    "paperId": 357,
+    "paperTitle": "Topological Analysis of Plant Structure Using Persistent Homology for Genotype Classification",
+    "abstract": "An advanced phenotyping framework integrates Persistent Homology (PH) with conventional skeleton-based features. Integrating PH with standard morphological traits significantly improves genotype classification accuracy using machine learning.",
+    "primaryContactAuthorName": "Prasenjit Betal",
+    "primaryContactAuthorEmail": "prasenjitbetal.23@kgpian.iitkgp.ac.in",
+    "authors": "Prasenjit Betal (Indian Institute of Technology Kharagpur)*"
+  },
+  {
+    "paperId": 358,
+    "paperTitle": "EEG-Guided Image Synthesis via Hybrid Embedding and Diffusion Framework",
+    "abstract": "We propose an EEG-conditioned image reconstruction framework that fine-tunes a pre-trained Stable Diffusion model. The approach achieves a final validation loss of 0.198 and a CLIP similarity score of 0.872.",
+    "primaryContactAuthorName": "Jyoti Nigam",
+    "primaryContactAuthorEmail": "jyoti_nigam@projects.iitmandi.ac.in",
+    "authors": "Jyoti Nigam (IIT MANDI)*; Utsav Sharma (IIT Mandi); Aryan Raj (IIT Mandi); Gopesh Sharma (IIT Mandi); Aaditya Singh (IIT Mandi); Asmit Kumar (IIT Mandi); Aditya Nigam (Indian Institute of Technology, Mandi); Arnav Bhavsar (IIT Mandi)"
+  },
+  {
+    "paperId": 359,
+    "paperTitle": "TranSMOTE: Transformer Based Synthetic Minority Oversampling Technique",
+    "abstract": "This paper introduces TranSMOTE, a novel framework that synergistically combines Vision Transformer architectures with SMOTE-based oversampling to address class imbalance in image classification. TranSMOTE achieves remarkable improvements of 11.7% on MNIST, 2.6% on CIFAR-10, and 8.5% on SVHN.",
+    "primaryContactAuthorName": "Priyobrata Mondal",
+    "primaryContactAuthorEmail": "priyobrata.mondal10@gmail.com",
+    "authors": "Priyobrata Mondal (Indian Statistical Institute, Kolkata)*; Soumi Pal (Birla Institute of Technology, Mesra); Swagatam Das (Indian Statistical Institute, Kolkata)"
+  },
+  {
+    "paperId": 360,
+    "paperTitle": "Margin Adaptation: Enhanced Label-Distribution-Aware Margins with Strategic Reweighting and Representation Optimization",
+    "abstract": "We propose a unified framework that synergistically combines three key innovations to overcome limitations in imbalanced learning. Our method demonstrates consistent improvements over state-of-the-art methods, achieving superior performance while maintaining computational efficiency.",
+    "primaryContactAuthorName": "Priyobrata Mondal",
+    "primaryContactAuthorEmail": "priyobrata.mondal10@gmail.com",
+    "authors": "Ayushman Datta (SRM Institute of Science & Technology, Kattankulathur, Chennai); Priyobrata Mondal (Indian Statistical Institute, Kolkata)*; Swagatam Das (Indian Statistical Institute, Kolkata)"
+  },
+  {
+    "paperId": 366,
+    "paperTitle": "A New Diverse Dataset for rPPG Estimation, and Benchmarking with Standard Frameworks",
+    "abstract": "We present the another rPPG dataset that consisting of recordings with a range of skin tones, different lighting settings, and realistic facial expressions. This study offers a demographically unique and environmentally diverse dataset, along with feature extraction, that demonstrates improvement in existing frameworks.",
+    "primaryContactAuthorName": "Navdha Bhardwaj",
+    "primaryContactAuthorEmail": "d23229@students.iitmandi.ac.in",
+    "authors": "Navdha Bhardwaj (Indian Institute of Technology Mandi)*; Yashviverna (IIT KGP); Arnav Bhavsar (IIT Mandi)"
   }
 ]

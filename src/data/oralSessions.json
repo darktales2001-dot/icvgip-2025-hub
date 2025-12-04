@@ -3,7 +3,7 @@
     "paperId": 76,
     "paperTitle": "Unveiling Text in Challenging Stone Inscriptions: A Spatially-Adaptive Patching Strategy for Binarization",
     "authors": "Pratyush Jena (IIIT Hyderabad); Amal Joseph (IIIT Hyderabad); Arnav Sharma (IIIT Hyderabad); Ravi Kiran Sarvadevabhatla (IIIT Hyderabad)*",
-    "broadArea": "Vision-Language Models",
+    "broadArea": "Vison-Language Models",
     "session": "Oral Session-1",
     "additionalPosterSession": "Poster-Session-1",
     "sessionChair": ""
@@ -12,7 +12,7 @@
     "paperId": 303,
     "paperTitle": "Improving Video Question Answering through query-based frame selection",
     "authors": "Himanshu Patil (Indian Institute of Technology Bombay)*; Geo Jolly (Indian Institute of Technology Bombay); Ramana Raja Buddala (Indian Institute of Technology Bombay); Ganesh Ramakrishnan (Indian Institute of Technology Bombay)",
-    "broadArea": "Vision-Language Models",
+    "broadArea": "Vison-Language Models",
     "session": "Oral Session-1",
     "additionalPosterSession": "Poster-Session-1",
     "sessionChair": ""
@@ -21,7 +21,7 @@
     "paperId": 130,
     "paperTitle": "From Words to Paragraphs: Hierarchical Dense Text Detection with SAM-Adaptive Backbone",
     "authors": "Shashank Vempati (IIT Delhi)*; Gaurav Talebailkar (IIT Delhi); Sai Prabhath Bogam (IIT Delhi); Bhaskar Arun (Tata 1mg); Kayalvizhi Ganesan (Tata 1mg); Chetan Arora (IIT Delhi)",
-    "broadArea": "Vision-Language Models",
+    "broadArea": "Vison-Language Models",
     "session": "Oral Session-1",
     "additionalPosterSession": "Poster-Session-1",
     "sessionChair": ""
@@ -29,8 +29,8 @@
   {
     "paperId": 90,
     "paperTitle": "HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs",
-    "authors": "Sukanya Das (Indian Institute of Technology Kharagpur)*; Debasis Samanta (Indian Institute of Technology Kharagpur); Monalisa Sarma (Indian Institute of Technology Kharagpur); Sujoy Nath (Netaji Subhash Engineering College); Arkaprabha Basu (TCG Crest)*; Sharanya Dasgupta (Indian Statistical Institute, Kolkata); Swagatam Das (Indian Statistical Institute, Kolkata)",
-    "broadArea": "Vision-Language Models",
+    "authors": "Sukanya Das (Indian Institute of Technology Kharagpur)*; Debasis Samanta (Indian Institute of Technology Kharagpur); Monalisa Sarma (Indian Institute of Technology Kharagpur); Sujoy Nath (Netaji Subhash Engineering College); Arkaprabha Basu (TCG Crest) *; Sharanya Dasgupta (Indian Statistical Institute, Kolkata); Swagatam Das (Indian Statistical Institute, Kolkata)",
+    "broadArea": "Vison-Language Models",
     "session": "Oral Session-1",
     "additionalPosterSession": "Poster-Session-1",
     "sessionChair": ""
@@ -38,8 +38,8 @@
   {
     "paperId": 344,
     "paperTitle": "Statistically Validated Hybrid Fusion and Ensemble Feature Selection for Static Sign Language Recognition",
-    "authors": "Jayasree Saha (IIIT-Hyderabad)*; Vinay Namboodiri (University of Bath); C. V Jawahar (IIIT Hyderabad)",
-    "broadArea": "Vision-Language Models",
+    "authors": "Sukanya Das (Indian Institute of Technology Kharagpur)*; Debasis Samanta (Indian Institute of Technology Kharagpur); Monalisa Sarma (Indian Institute of Technology Kharagpur)",
+    "broadArea": "Vison-Language Models",
     "session": "Oral Session-1",
     "additionalPosterSession": "Poster-Session-1",
     "sessionChair": ""
@@ -47,8 +47,8 @@
   {
     "paperId": 262,
     "paperTitle": "Low SNR Speech Perception with HuBERT: A Discussion on Visual-Audio Fusion and Domain-Specific Modeling",
-    "authors": "Raghav Mittal (TCS Research); Lokender Tiwari (TCS Research)*; Shivam Ashok Shukla (TCS Research); Mritunjoy Halder (TCS Research); Brojeshwar Bhowmick (TCS Research)",
-    "broadArea": "Vision-Language Models",
+    "authors": "Jayasree Saha (IIIT-Hyderabad)*; vinay Namboodiri (University of Bath); C. V Jawahar (IIIT hyderabad)",
+    "broadArea": "Vison-Language Models",
     "session": "Oral Session-1",
     "additionalPosterSession": "Poster-Session-1",
     "sessionChair": ""
@@ -56,7 +56,7 @@
   {
     "paperId": 286,
     "paperTitle": "GeMR: Multi-modal Interactive 3D Scene Composition In XR",
-    "authors": "",
+    "authors": "Raghav Mittal (TCS Research ); Lokender Tiwari (TCS Research)*; Shivam Ashok Shukla (TCS Research); Mritunjoy Halder (TCS Research); Brojeshwar Bhowmick (TCS Research)",
     "broadArea": "Motion and 3D, Graphics",
     "session": "Oral Session-2",
     "additionalPosterSession": "Poster-Session-2",
@@ -65,7 +65,7 @@
   {
     "paperId": 177,
     "paperTitle": "PHAF: Personalised Hand Avatar in a Flash",
-    "authors": "Meghana Shankar (Samsung); Akanxit Upadhyay (Samsung); Anmol Namdev (Samsung); Green Rosh KS (Samsung); Pawan Prasad BH (Samsung)",
+    "authors": "Meghana Shankar (Samsung)*; Akanxit Upadhyay (Samsung); Anmol Namdev (Samsung); Green Rosh KS (Samsung); Pawan Prasad BH (Samsung)",
     "broadArea": "Motion and 3D, Graphics",
     "session": "Oral Session-2",
     "additionalPosterSession": "Poster-Session-2",
@@ -74,7 +74,7 @@
   {
     "paperId": 209,
     "paperTitle": "Mesh Object Retrieval using Self-Supervised Mesh Convolution",
-    "authors": "Kajal Sanklecha (International Institute of Information Technology, Hyderabad); Siddharth Mangipudi (International Institute of Information Technology, Hyderabad); Prayushi Mathur (International Institute of Information Technology, Hyderabad); P. J. Narayanan (International Institute of Information Technology, Hyderabad)",
+    "authors": "Kajal Sanklecha (International Institute of Information Technology, Hyderabad)*; Siddharth Mangipudi (International Institute of Information Technology, Hyderabad); Prayushi Mathur (International Institute of Information Technology, Hyderabad); P. J. Narayanan (International Institute of Information Technology, Hyderabad)",
     "broadArea": "Motion and 3D, Graphics",
     "session": "Oral Session-2",
     "additionalPosterSession": "Poster-Session-2",
@@ -83,7 +83,7 @@
   {
     "paperId": 64,
     "paperTitle": "Screen2UI: Pixel-Only On-Device UI Hierarchy Generation",
-    "authors": "Anup Kushwaha (Samsung); Banseedhar Gondaliya (Samsung R&D Institute Bangalore); Chandramouli Sanchi (Samsung R&D Institute Bangalore); Surya Kumar (Samsung R&D Institute Bangalore); Apil Thapa (Samsung R&D Institute Bangalore); Edula Sri Ranga Srihit Reddy (Samsung R&D Institute Bangalore)",
+    "authors": "Anup Kushwaha (Samsung)*; Banseedhar Gondaliya (Samsung R&D Institute Bangalore); Chandramouli Sanchi (Samsung R&D Institute Bangalore); Surya Kumar (Samsung R&D Institute Bangalore); Apil Thapa (Samsung R&D Institute Bangalore); Edula Sri Ranga Srihit Reddy (Samsung R&D Institute Bangalore)",
     "broadArea": "Motion and 3D, Graphics",
     "session": "Oral Session-2",
     "additionalPosterSession": "Poster-Session-2",
@@ -92,7 +92,7 @@
   {
     "paperId": 337,
     "paperTitle": "Retrieval Augmented Continuous Person Tracking and Re-Identification",
-    "authors": "Madan Sharma (Rajiv Gandhi Institute of Petroleum Technology); Aditya Singh (Rajiv Gandhi Institute of Petroleum Technology); Ashank Kunwar (Rajiv Gandhi Institute of Petroleum Technology); Nirbhay Kumar Tagore (Rajiv Gandhi Institute of Petroleum Technology); Sachin Kumar (Rajiv Gandhi Institute of Petroleum Technology)",
+    "authors": "Madan Sharma (Rajiv Gandhi Institute of Petroleum Technology); Aditya Singh (Rajiv Gandhi Institute of Petroleum Technology); Ashank Kunwar (Rajiv Gandhi Institute of Petroleum Technology); Nirbhay Kumar Tagore (Rajiv Gandhi Institute of Petroleum Technology)*; Sachin Kumar (Rajiv Gandhi Institute of Petroleum Technology)",
     "broadArea": "Motion and 3D, Graphics",
     "session": "Oral Session-2",
     "additionalPosterSession": "Poster-Session-2",
@@ -101,7 +101,7 @@
   {
     "paperId": 140,
     "paperTitle": "CSGaze: Context-aware Social Gaze Prediction",
-    "authors": "Surbhi Madan (IIT Ropar); Shreya Ghosh (Curtin University); Ramanathan Subramanian (University of Canberra); Shreya Gedeon (Curtin University); Abhinav Dhall (Monash University)",
+    "authors": "Surbhi Madan (IIT Ropar); Shreya Ghosh (Curtin University)*; Ramanathan Subramanian (University of Canberra); Shreya Gedeon (Curtin University); Abhinav Dhall (Monash University)",
     "broadArea": "Motion and 3D, Graphics",
     "session": "Oral Session-2",
     "additionalPosterSession": "Poster-Session-2",
@@ -128,7 +128,7 @@
   {
     "paperId": 226,
     "paperTitle": "Leveraging Task-Specific Knowledge from LLM for Semi-Supervised 3D Medical Image Segmentation",
-    "authors": "Suruchi Kumari (Indian Institute of Technology Roorkee)*; Aryan Das (School Of Computer Science Engineering, Vellore Institute of Technology, Bhopal); Swalpa Kumar Roy (Alipurduar Government Engineering and Management College); Indu Joshi (Indian Institute of Technology Mandi); Pravendra Singh (Indian Institute of Technology Roorkee)",
+    "authors": "Suruchi Kumari (Indian institute of technology Roorkee)*; Aryan Das (School Of Computer Science Engineering, Vellore Institute of Technology, Bhopal); Swalpa Kumar Roy (Alipurduar Government Engineering and Management College); Indu Joshi (Indian Institute of Technology Mandi); Pravendra Singh (Indian institute of technology Roorkee)",
     "broadArea": "Medical Vision",
     "session": "Oral Session-3",
     "additionalPosterSession": "Poster-Session-2",
@@ -137,7 +137,7 @@
   {
     "paperId": 176,
     "paperTitle": "Severity Grading of Autism Spectrum Disorder from Eye Gaze Scanpath Trajectory using Deep Learning",
-    "authors": "Debmani Saha (Indian Institute of Information Technology Kalyani)*; Dr. Kumari Rina (All India Institute of Medical Sciences Kalyani); Dr. Deepshikha Ray (University of Calcutta); Dr. Kaushik Mukhopadhyay (All India Institute of Medical Sciences Kalyani); Ayoleena Roy (All India Institute of Medical Sciences Kalyani); Dr. Oishila Bandyopadhyay (Indian Institute of Information Technology Kalyani)",
+    "authors": "Debmani Saha (Indian Institute of Information Technology Kalyani)*; Dr. Kumari Rina (All India Institute of Medical Sciences Kalyani); Dr. Deepshikha Ray (University of Calcutta); Dr. Kaushik Mukhopadhyay (All India Institute of Medical Sciences Kalyani); Ayoleena Roy (All India Institute of Medical Sciences Kalyani ); Dr. Oishila Bandyopadhyay (Indian Institute of Information Technology Kalyani)",
     "broadArea": "Medical Vision",
     "session": "Oral Session-3",
     "additionalPosterSession": "Poster-Session-2",
@@ -146,7 +146,7 @@
   {
     "paperId": 259,
     "paperTitle": "How Does India Cook Biryani?",
-    "authors": "Farzana S (IIIT Hyderabad); CV Rishi (IIIT Hyderabad); Shubham Goel (IIIT Hyderabad)*; Aditya Arun (IIIT Hyderabad); CV Jawahar (IIIT Hyderabad)",
+    "authors": "Farzana S (IIIT Hyderabad); CV Rishi (IIIT Hyderabad); Shubham Goel (IIIT Hyderabad)*; Aditya Arun (IIIT Hyderabad); CV Jawahar (IIIT Hyderbad)",
     "broadArea": "Applications of CV/IP/Graphics",
     "session": "Oral Session-4",
     "additionalPosterSession": "Poster-Session-2",
@@ -155,7 +155,7 @@
   {
     "paperId": 54,
     "paperTitle": "Lightweight and Accurate Deepfake Detection using Gradient-Aware SE-Enhanced EfficientNetV2-S",
-    "authors": "Prof. Ketan P. Detroja IIT Hyderabad*",
+    "authors": "Prof. Ketan P. Detroja IIT Hyderabad Contrl (\"Respected member, IPC, ICIEV\")*",
     "broadArea": "Applications of CV/IP/Graphics",
     "session": "Oral Session-4",
     "additionalPosterSession": "Poster-Session-2",
@@ -172,8 +172,8 @@
   },
   {
     "paperId": 153,
-    "paperTitle": "FedLeaf: Decentralizing Leaf Disease Detection with Self-Supervised Federated Learning and Consensus",
-    "authors": "Sagnik Ghosh (Indian Institute of Technology Kharagpur)*",
+    "paperTitle": "FedLeaf:Decentralizing Leaf Disease Detection with Self-Supervised Federated Learning and Consensus",
+    "authors": "Sagnik Ghosh (INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR)",
     "broadArea": "Applications of CV/IP/Graphics",
     "session": "Oral Session-4",
     "additionalPosterSession": "Poster-Session-2",
@@ -191,7 +191,7 @@
   {
     "paperId": 232,
     "paperTitle": "Behavioral Evaluation of Prospect-Theoretic Instance-Based Learning: Modeling Risk and Alternation in Experience-Based Decisions",
-    "authors": "Devansh Shrestha (IIT Mandi); Varun Dutt (IIT Mandi)*",
+    "authors": "Devansh Shrestha (IIT mandi); Varun Dutt (IIT Mandi)*",
     "broadArea": "Applications of CV/IP/Graphics",
     "session": "Oral Session-4",
     "additionalPosterSession": "Poster-Session-2",
@@ -227,7 +227,7 @@
   {
     "paperId": 173,
     "paperTitle": "Contextual Memory Recall: A Novel Metric for Class Incremental Learning",
-    "authors": "Ravi Mukkamala (Old Dominion University)*",
+    "authors": "Balasubramanian S (Sri Sathya Sai Institute of Higher Learning); Sai Subramaniam M (Sri Sathya Sai Institute of Higher Learning); Sai Sriram Talasu (Sri Sathya Sai Institute of Higher Learning); Yedu Krishna P (Sri Sathya Sai Institute of Higher Learning); Pranav Phanindra Sai Manepalli (Sri Sathya Sai Institute of Higher Learning); Darshan Gera (Sri Sathya Sai Institute of Higher Learning); Ravi Mukkamala (Old Dominion University)*",
     "broadArea": "Core Deep Learning/Machine Learning",
     "session": "Oral Session-5",
     "additionalPosterSession": "Poster-Session-1",

@@ -1,26 +1,27 @@
 import { PageLayout } from "@/components/PageLayout";
 import { SessionCard } from "@/components/SessionCard";
+import { ScheduleImage } from "@/components/ScheduleImage";
 import { Mic, Image, Eye, Building2, Calendar } from "lucide-react";
 import scheduleImage from "@/assets/schedule.png";
 
 const oralSessions = [
-  { id: 1, title: "Oral Session-1", time: "Dec 18 - 9:00 AM" },
-  { id: 2, title: "Oral Session-2", time: "Dec 19 - 9:00 AM" },
-  { id: 3, title: "Oral Session-3", time: "Dec 19 - 2:30 PM" },
-  { id: 4, title: "Oral Session-4", time: "Dec 20 - 9:00 AM" },
-  { id: 5, title: "Oral Session-5", time: "Dec 20 - 2:30 PM" },
-  { id: 6, title: "Oral Session-6", time: "Dec 20 - 2:30 PM" },
+  { id: 1, title: "Oral Session-1", time: "Dec 18 - 9:00 AM", link: "/oral-sessions" },
+  { id: 2, title: "Oral Session-2", time: "Dec 19 - 9:00 AM", link: "/oral-sessions" },
+  { id: 3, title: "Oral Session-3", time: "Dec 19 - 2:30 PM", link: "/oral-sessions" },
+  { id: 4, title: "Oral Session-4", time: "Dec 20 - 9:00 AM", link: "/oral-sessions" },
+  { id: 5, title: "Oral Session-5", time: "Dec 20 - 2:30 PM", link: "/oral-sessions" },
+  { id: 6, title: "Oral Session-6", time: "Dec 20 - 2:30 PM", link: "/oral-sessions" },
 ];
 
 const posterSessions = [
-  { id: 1, title: "Poster Session-1", time: "Dec 18 - 2:30 PM", desc: "Includes poster/oral papers, Vision India posters" },
-  { id: 2, title: "Poster Session-2", time: "Dec 19 - 2:30 PM", desc: "Includes poster/oral papers, Tiny Papers Track posters" },
+  { id: 1, title: "Poster Session-1", time: "Dec 18 - 2:30 PM", desc: "Includes poster/oral papers, Vision India posters", link: "/poster-sessions" },
+  { id: 2, title: "Poster Session-2", time: "Dec 19 - 2:30 PM", desc: "Includes poster/oral papers, Tiny Papers Track posters", link: "/poster-sessions" },
 ];
 
 const industrySessions = [
-  { id: 1, title: "Industry Session-1", time: "Dec 19 - 9:00 AM" },
-  { id: 2, title: "Industry Session-2", time: "Dec 20 - 9:00 AM" },
-  { id: 3, title: "Industry Session-3", time: "Dec 20 - 9:00 AM" },
+  { id: 1, title: "Industry Session-1", time: "Dec 19 - 9:00 AM", link: "/" },
+  { id: 2, title: "Industry Session-2", time: "Dec 20 - 9:00 AM", link: "/" },
+  { id: 3, title: "Industry Session-3", time: "Dec 20 - 9:00 AM", link: "/" },
 ];
 
 export default function Index() {
@@ -44,11 +45,10 @@ export default function Index() {
       </div>
 
       {/* Schedule Image */}
-      <div className="mb-12 rounded-xl border border-border bg-card p-4 shadow-lg overflow-x-auto">
-        <img
+      <div className="mb-12">
+        <ScheduleImage
           src={scheduleImage}
           alt="ICVGIP 2025 Program Schedule"
-          className="w-full min-w-[800px] rounded-lg"
         />
       </div>
 
@@ -83,7 +83,7 @@ export default function Index() {
                 key={session.id}
                 title={session.title}
                 description={session.time}
-                link="/oral-sessions"
+                link={session.link}
                 variant="oral"
                 icon={<Mic className="h-5 w-5 text-primary" />}
               />
@@ -103,7 +103,7 @@ export default function Index() {
                 key={session.id}
                 title={session.title}
                 description={`${session.time} • ${session.desc}`}
-                link="/poster-sessions"
+                link={session.link}
                 variant="poster"
                 icon={<Image className="h-5 w-5 text-[hsl(142,76%,40%)]" />}
               />
@@ -123,7 +123,7 @@ export default function Index() {
                 key={session.id}
                 title={session.title}
                 description={session.time}
-                link="/"
+                link={session.link}
                 variant="industry"
                 icon={<Building2 className="h-5 w-5 text-[hsl(340,82%,50%)]" />}
               />

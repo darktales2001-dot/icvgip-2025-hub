@@ -51,7 +51,7 @@
     "sn": 9,
     "paperTitle": "The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models",
     "venue": "CVPR 2025",
-    "authors": "Naveen George (IITH), Karthik Nandan Dasaraju (IIT Ropar), Rutheesh Reddy Chittepu (IITH), Konda Reddy Mopuri (IITH)"
+    "authors": "Naveen George(IITH), Karthik Nandan Dasaraju (IIT Ropar), Rutheesh Reddy Chittepu(IITH), Konda Reddy Mopuri(IITH)"
   },
   {
     "sn": 10,
@@ -74,19 +74,19 @@
   {
     "sn": 13,
     "paperTitle": "Concept Siever: Towards Controllable Erasure of Concepts from Diffusion Models without Side-effect",
-    "venue": "NeurIPS 2025",
+    "venue": "TMLR 2025",
     "authors": "Aakash Kumar Singh (IISc), Priyam Dey (IISc), Sribhav Srivatsa (IISc), Venkatesh Babu R. (IISc)"
   },
   {
     "sn": 14,
     "paperTitle": "SEMI-CAVA: A Causal Variational Approach to Semi-Supervised Learning",
-    "venue": "AAAI 2025",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025",
     "authors": "Saptarshi Saha (ISI Kolkata), Pratyush Kumar Sahoo (ISI Kolkata), and Utpal Garain (ISI Kolkata)"
   },
   {
     "sn": 15,
     "paperTitle": "Zero Shot Depth Aware Image Editing with Diffusion Models",
-    "venue": "ECCV 2025",
+    "venue": "ICCV 2025",
     "authors": "Rishubh Parihar, Sachidanand VS, R. Venkatesh Babu"
   },
   {
@@ -98,7 +98,7 @@
   {
     "sn": 17,
     "paperTitle": "Camouflage Anything: Learning to Hide using Controlled Out-painting and Representation Engineering",
-    "venue": "ICCV 2025",
+    "venue": "CVPR 2025",
     "authors": "Biplab Das (IIIT Bangalore, Samsung R&D Institute Bangalore), Viswanath Gopalakrishnan (IIIT Bangalore)"
   }
 ]
